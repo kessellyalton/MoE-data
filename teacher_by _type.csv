@@ -1,0 +1,395 @@
+,County,Type of school,Professional qualification,0
+0,Bomi,Faith-based,AA Certificate,17.0
+1,Bomi,Faith-based,B.Sc. in Education,3.0
+2,Bomi,Faith-based,In-service B Certificate,1.0
+3,Bomi,Faith-based,In-service C Certificate,16.0
+4,Bomi,Faith-based,No teaching certificate,47.0
+5,Bomi,Faith-based,Pre-service B Certificate,5.0
+6,Bomi,Faith-based,Pre-service C Certificate,19.0
+7,Bomi,Private,AA Certificate,13.0
+8,Bomi,Private,B.Sc. in Education,1.0
+9,Bomi,Private,In-service C Certificate,14.0
+10,Bomi,Private,No teaching certificate,20.0
+11,Bomi,Private,Pre-service B Certificate,4.0
+12,Bomi,Private,Pre-service C Certificate,9.0
+13,Bomi,Public,AA Certificate,14.0
+14,Bomi,Public,B.Sc. in Education,7.0
+15,Bomi,Public,In-service B Certificate,5.0
+16,Bomi,Public,In-service C Certificate,60.0
+17,Bomi,Public,M.Sc. in Education,3.0
+18,Bomi,Public,No teaching certificate,69.0
+19,Bomi,Public,Pre-service B Certificate,4.0
+20,Bomi,Public,Pre-service C Certificate,93.0
+21,Bong,Community,AA Certificate,4.0
+22,Bong,Community,B.Sc. in Education,6.0
+23,Bong,Community,In-service B Certificate,1.0
+24,Bong,Community,In-service C Certificate,10.0
+25,Bong,Community,No teaching certificate,27.0
+26,Bong,Community,Pre-service B Certificate,6.0
+27,Bong,Community,Pre-service C Certificate,27.0
+28,Bong,Faith-based,AA Certificate,23.0
+29,Bong,Faith-based,B.Sc. in Education,14.0
+30,Bong,Faith-based,In-service B Certificate,15.0
+31,Bong,Faith-based,In-service C Certificate,125.0
+32,Bong,Faith-based,No teaching certificate,55.0
+33,Bong,Faith-based,Pre-service B Certificate,22.0
+34,Bong,Faith-based,Pre-service C Certificate,100.0
+35,Bong,Private,AA Certificate,24.0
+36,Bong,Private,B.Sc. in Education,27.0
+37,Bong,Private,In-service B Certificate,30.0
+38,Bong,Private,In-service C Certificate,126.0
+39,Bong,Private,No teaching certificate,68.0
+40,Bong,Private,Pre-service B Certificate,39.0
+41,Bong,Private,Pre-service C Certificate,171.0
+42,Bong,Public,AA Certificate,21.0
+43,Bong,Public,B.Sc. in Education,45.0
+44,Bong,Public,In-service B Certificate,44.0
+45,Bong,Public,In-service C Certificate,449.0
+46,Bong,Public,M.Sc. in Education,1.0
+47,Bong,Public,No teaching certificate,223.0
+48,Bong,Public,Pre-service B Certificate,40.0
+49,Bong,Public,Pre-service C Certificate,295.0
+50,Gbarpolu,Faith-based,AA Certificate,1.0
+51,Gbarpolu,Faith-based,No teaching certificate,17.0
+52,Gbarpolu,Faith-based,Pre-service B Certificate,1.0
+53,Gbarpolu,Faith-based,Pre-service C Certificate,4.0
+54,Gbarpolu,Private,In-service C Certificate,4.0
+55,Gbarpolu,Private,Pre-service B Certificate,2.0
+56,Gbarpolu,Private,Pre-service C Certificate,14.0
+57,Gbarpolu,Public,AA Certificate,18.0
+58,Gbarpolu,Public,B.Sc. in Education,29.0
+59,Gbarpolu,Public,In-service B Certificate,2.0
+60,Gbarpolu,Public,In-service C Certificate,143.0
+61,Gbarpolu,Public,No teaching certificate,161.0
+62,Gbarpolu,Public,Pre-service B Certificate,8.0
+63,Gbarpolu,Public,Pre-service C Certificate,163.0
+64,Grand Bassa,Community,AA Certificate,2.0
+65,Grand Bassa,Community,In-service B Certificate,2.0
+66,Grand Bassa,Community,In-service C Certificate,2.0
+67,Grand Bassa,Community,No teaching certificate,14.0
+68,Grand Bassa,Community,Pre-service B Certificate,1.0
+69,Grand Bassa,Community,Pre-service C Certificate,4.0
+70,Grand Bassa,Faith-based,AA Certificate,7.0
+71,Grand Bassa,Faith-based,In-service C Certificate,7.0
+72,Grand Bassa,Faith-based,No teaching certificate,41.0
+73,Grand Bassa,Faith-based,Pre-service C Certificate,13.0
+74,Grand Bassa,Private,AA Certificate,46.0
+75,Grand Bassa,Private,B.Sc. in Education,9.0
+76,Grand Bassa,Private,In-service B Certificate,2.0
+77,Grand Bassa,Private,In-service C Certificate,17.0
+78,Grand Bassa,Private,No teaching certificate,47.0
+79,Grand Bassa,Private,Pre-service B Certificate,3.0
+80,Grand Bassa,Private,Pre-service C Certificate,19.0
+81,Grand Bassa,Public,AA Certificate,66.0
+82,Grand Bassa,Public,B.Sc. in Education,15.0
+83,Grand Bassa,Public,In-service B Certificate,12.0
+84,Grand Bassa,Public,In-service C Certificate,139.0
+85,Grand Bassa,Public,M.Sc. in Education,2.0
+86,Grand Bassa,Public,No teaching certificate,270.0
+87,Grand Bassa,Public,PhD in Education,2.0
+88,Grand Bassa,Public,Pre-service B Certificate,10.0
+89,Grand Bassa,Public,Pre-service C Certificate,126.0
+90,Grand Cape Mount,Community,AA Certificate,4.0
+91,Grand Cape Mount,Community,In-service B Certificate,1.0
+92,Grand Cape Mount,Community,In-service C Certificate,7.0
+93,Grand Cape Mount,Community,No teaching certificate,19.0
+94,Grand Cape Mount,Community,Pre-service B Certificate,1.0
+95,Grand Cape Mount,Community,Pre-service C Certificate,2.0
+96,Grand Cape Mount,Faith-based,AA Certificate,33.0
+97,Grand Cape Mount,Faith-based,B.Sc. in Education,14.0
+98,Grand Cape Mount,Faith-based,In-service B Certificate,11.0
+99,Grand Cape Mount,Faith-based,In-service C Certificate,10.0
+100,Grand Cape Mount,Faith-based,No teaching certificate,68.0
+101,Grand Cape Mount,Faith-based,Pre-service B Certificate,11.0
+102,Grand Cape Mount,Faith-based,Pre-service C Certificate,39.0
+103,Grand Cape Mount,Private,AA Certificate,36.0
+104,Grand Cape Mount,Private,B.Sc. in Education,22.0
+105,Grand Cape Mount,Private,In-service B Certificate,31.0
+106,Grand Cape Mount,Private,In-service C Certificate,28.0
+107,Grand Cape Mount,Private,M.Sc. in Education,1.0
+108,Grand Cape Mount,Private,No teaching certificate,73.0
+109,Grand Cape Mount,Private,Pre-service B Certificate,22.0
+110,Grand Cape Mount,Private,Pre-service C Certificate,30.0
+111,Grand Cape Mount,Public,AA Certificate,114.0
+112,Grand Cape Mount,Public,B.Sc. in Education,31.0
+113,Grand Cape Mount,Public,In-service B Certificate,33.0
+114,Grand Cape Mount,Public,In-service C Certificate,182.0
+115,Grand Cape Mount,Public,M.Sc. in Education,0.0
+116,Grand Cape Mount,Public,No teaching certificate,209.0
+117,Grand Cape Mount,Public,PhD in Education,1.0
+118,Grand Cape Mount,Public,Pre-service B Certificate,26.0
+119,Grand Cape Mount,Public,Pre-service C Certificate,218.0
+120,Grand Gedeh,Community,AA Certificate,4.0
+121,Grand Gedeh,Community,B.Sc. in Education,1.0
+122,Grand Gedeh,Community,In-service B Certificate,1.0
+123,Grand Gedeh,Community,In-service C Certificate,23.0
+124,Grand Gedeh,Community,No teaching certificate,4.0
+125,Grand Gedeh,Community,Pre-service B Certificate,1.0
+126,Grand Gedeh,Community,Pre-service C Certificate,1.0
+127,Grand Gedeh,Faith-based,AA Certificate,30.0
+128,Grand Gedeh,Faith-based,B.Sc. in Education,19.0
+129,Grand Gedeh,Faith-based,In-service B Certificate,7.0
+130,Grand Gedeh,Faith-based,In-service C Certificate,46.0
+131,Grand Gedeh,Faith-based,No teaching certificate,63.0
+132,Grand Gedeh,Faith-based,Pre-service B Certificate,4.0
+133,Grand Gedeh,Faith-based,Pre-service C Certificate,25.0
+134,Grand Gedeh,Private,AA Certificate,57.0
+135,Grand Gedeh,Private,B.Sc. in Education,52.0
+136,Grand Gedeh,Private,In-service B Certificate,13.0
+137,Grand Gedeh,Private,In-service C Certificate,207.0
+138,Grand Gedeh,Private,M.Sc. in Education,3.0
+139,Grand Gedeh,Private,No teaching certificate,72.0
+140,Grand Gedeh,Private,PhD in Education,0.0
+141,Grand Gedeh,Private,Pre-service B Certificate,9.0
+142,Grand Gedeh,Private,Pre-service C Certificate,102.0
+143,Grand Gedeh,Public,AA Certificate,62.0
+144,Grand Gedeh,Public,B.Sc. in Education,59.0
+145,Grand Gedeh,Public,In-service B Certificate,17.0
+146,Grand Gedeh,Public,In-service C Certificate,350.0
+147,Grand Gedeh,Public,M.Sc. in Education,1.0
+148,Grand Gedeh,Public,No teaching certificate,64.0
+149,Grand Gedeh,Public,PhD in Education,0.0
+150,Grand Gedeh,Public,Pre-service B Certificate,14.0
+151,Grand Gedeh,Public,Pre-service C Certificate,147.0
+152,Grand Kru,Faith-based,AA Certificate,7.0
+153,Grand Kru,Faith-based,B.Sc. in Education,17.0
+154,Grand Kru,Faith-based,In-service C Certificate,14.0
+155,Grand Kru,Faith-based,M.Sc. in Education,1.0
+156,Grand Kru,Faith-based,No teaching certificate,63.0
+157,Grand Kru,Faith-based,Pre-service C Certificate,42.0
+158,Grand Kru,Private,AA Certificate,1.0
+159,Grand Kru,Private,B.Sc. in Education,11.0
+160,Grand Kru,Private,In-service C Certificate,4.0
+161,Grand Kru,Private,No teaching certificate,18.0
+162,Grand Kru,Private,Pre-service C Certificate,2.0
+163,Grand Kru,Public,AA Certificate,18.0
+164,Grand Kru,Public,B.Sc. in Education,45.0
+165,Grand Kru,Public,In-service B Certificate,18.0
+166,Grand Kru,Public,In-service C Certificate,124.0
+167,Grand Kru,Public,No teaching certificate,131.0
+168,Grand Kru,Public,Pre-service B Certificate,14.0
+169,Grand Kru,Public,Pre-service C Certificate,269.0
+170,Lofa,Community,AA Certificate,10.0
+171,Lofa,Community,In-service B Certificate,1.0
+172,Lofa,Community,In-service C Certificate,4.0
+173,Lofa,Community,No teaching certificate,22.0
+174,Lofa,Community,Pre-service C Certificate,1.0
+175,Lofa,Faith-based,AA Certificate,20.0
+176,Lofa,Faith-based,B.Sc. in Education,2.0
+177,Lofa,Faith-based,In-service C Certificate,14.0
+178,Lofa,Faith-based,M.Sc. in Education,0.0
+179,Lofa,Faith-based,No teaching certificate,21.0
+180,Lofa,Faith-based,Pre-service B Certificate,1.0
+181,Lofa,Faith-based,Pre-service C Certificate,8.0
+182,Lofa,Private,AA Certificate,27.0
+183,Lofa,Private,B.Sc. in Education,12.0
+184,Lofa,Private,In-service C Certificate,7.0
+185,Lofa,Private,No teaching certificate,47.0
+186,Lofa,Private,PhD in Education,1.0
+187,Lofa,Private,Pre-service B Certificate,6.0
+188,Lofa,Private,Pre-service C Certificate,20.0
+189,Lofa,Public,AA Certificate,62.0
+190,Lofa,Public,B.Sc. in Education,7.0
+191,Lofa,Public,In-service B Certificate,20.0
+192,Lofa,Public,In-service C Certificate,195.0
+193,Lofa,Public,M.Sc. in Education,1.0
+194,Lofa,Public,No teaching certificate,309.0
+195,Lofa,Public,Pre-service B Certificate,17.0
+196,Lofa,Public,Pre-service C Certificate,224.0
+197,Margibi,Community,AA Certificate,25.0
+198,Margibi,Community,B.Sc. in Education,30.0
+199,Margibi,Community,In-service B Certificate,12.0
+200,Margibi,Community,In-service C Certificate,28.0
+201,Margibi,Community,M.Sc. in Education,2.0
+202,Margibi,Community,No teaching certificate,47.0
+203,Margibi,Community,Pre-service B Certificate,16.0
+204,Margibi,Community,Pre-service C Certificate,85.0
+205,Margibi,Faith-based,AA Certificate,46.0
+206,Margibi,Faith-based,B.Sc. in Education,46.0
+207,Margibi,Faith-based,In-service B Certificate,10.0
+208,Margibi,Faith-based,In-service C Certificate,91.0
+209,Margibi,Faith-based,M.Sc. in Education,6.0
+210,Margibi,Faith-based,No teaching certificate,94.0
+211,Margibi,Faith-based,PhD in Education,2.0
+212,Margibi,Faith-based,Pre-service B Certificate,18.0
+213,Margibi,Faith-based,Pre-service C Certificate,153.0
+214,Margibi,Private,AA Certificate,100.0
+215,Margibi,Private,B.Sc. in Education,80.0
+216,Margibi,Private,In-service B Certificate,30.0
+217,Margibi,Private,In-service C Certificate,157.0
+218,Margibi,Private,M.Sc. in Education,6.0
+219,Margibi,Private,No teaching certificate,144.0
+220,Margibi,Private,Pre-service B Certificate,40.0
+221,Margibi,Private,Pre-service C Certificate,243.0
+222,Margibi,Public,AA Certificate,46.0
+223,Margibi,Public,B.Sc. in Education,106.0
+224,Margibi,Public,In-service B Certificate,35.0
+225,Margibi,Public,In-service C Certificate,142.0
+226,Margibi,Public,M.Sc. in Education,11.0
+227,Margibi,Public,No teaching certificate,75.0
+228,Margibi,Public,Pre-service B Certificate,29.0
+229,Margibi,Public,Pre-service C Certificate,225.0
+230,Maryland,Private,B.Sc. in Education,5.0
+231,Maryland,Private,In-service C Certificate,2.0
+232,Maryland,Private,No teaching certificate,18.0
+233,Maryland,Private,Pre-service C Certificate,2.0
+234,Maryland,Public,B.Sc. in Education,3.0
+235,Maryland,Public,In-service B Certificate,4.0
+236,Maryland,Public,In-service C Certificate,26.0
+237,Maryland,Public,No teaching certificate,24.0
+238,Maryland,Public,Pre-service C Certificate,25.0
+239,Montserrado 1,Community,AA Certificate,28.0
+240,Montserrado 1,Community,B.Sc. in Education,20.0
+241,Montserrado 1,Community,In-service B Certificate,2.0
+242,Montserrado 1,Community,In-service C Certificate,56.0
+243,Montserrado 1,Community,M.Sc. in Education,1.0
+244,Montserrado 1,Community,No teaching certificate,61.0
+245,Montserrado 1,Community,Pre-service B Certificate,15.0
+246,Montserrado 1,Community,Pre-service C Certificate,43.0
+247,Montserrado 1,Faith-based,AA Certificate,464.0
+248,Montserrado 1,Faith-based,B.Sc. in Education,426.0
+249,Montserrado 1,Faith-based,In-service B Certificate,117.0
+250,Montserrado 1,Faith-based,In-service C Certificate,583.0
+251,Montserrado 1,Faith-based,M.Sc. in Education,42.0
+252,Montserrado 1,Faith-based,No teaching certificate,887.0
+253,Montserrado 1,Faith-based,PhD in Education,3.0
+254,Montserrado 1,Faith-based,Pre-service B Certificate,109.0
+255,Montserrado 1,Faith-based,Pre-service C Certificate,540.0
+256,Montserrado 1,Private,AA Certificate,839.0
+257,Montserrado 1,Private,B.Sc. in Education,467.0
+258,Montserrado 1,Private,In-service B Certificate,179.0
+259,Montserrado 1,Private,In-service C Certificate,941.0
+260,Montserrado 1,Private,M.Sc. in Education,35.0
+261,Montserrado 1,Private,No teaching certificate,1157.0
+262,Montserrado 1,Private,PhD in Education,2.0
+263,Montserrado 1,Private,Pre-service B Certificate,232.0
+264,Montserrado 1,Private,Pre-service C Certificate,842.0
+265,Montserrado 1,Public,AA Certificate,121.0
+266,Montserrado 1,Public,B.Sc. in Education,163.0
+267,Montserrado 1,Public,In-service B Certificate,26.0
+268,Montserrado 1,Public,In-service C Certificate,123.0
+269,Montserrado 1,Public,M.Sc. in Education,8.0
+270,Montserrado 1,Public,No teaching certificate,47.0
+271,Montserrado 1,Public,Pre-service B Certificate,33.0
+272,Montserrado 1,Public,Pre-service C Certificate,169.0
+273,Montserrado 2,Community,AA Certificate,18.0
+274,Montserrado 2,Community,B.Sc. in Education,5.0
+275,Montserrado 2,Community,In-service B Certificate,3.0
+276,Montserrado 2,Community,In-service C Certificate,31.0
+277,Montserrado 2,Community,M.Sc. in Education,1.0
+278,Montserrado 2,Community,No teaching certificate,3.0
+279,Montserrado 2,Community,Pre-service B Certificate,6.0
+280,Montserrado 2,Community,Pre-service C Certificate,27.0
+281,Montserrado 2,Faith-based,AA Certificate,191.0
+282,Montserrado 2,Faith-based,B.Sc. in Education,165.0
+283,Montserrado 2,Faith-based,In-service B Certificate,52.0
+284,Montserrado 2,Faith-based,In-service C Certificate,409.0
+285,Montserrado 2,Faith-based,M.Sc. in Education,9.0
+286,Montserrado 2,Faith-based,No teaching certificate,349.0
+287,Montserrado 2,Faith-based,PhD in Education,4.0
+288,Montserrado 2,Faith-based,Pre-service B Certificate,87.0
+289,Montserrado 2,Faith-based,Pre-service C Certificate,351.0
+290,Montserrado 2,Private,AA Certificate,393.0
+291,Montserrado 2,Private,B.Sc. in Education,352.0
+292,Montserrado 2,Private,In-service B Certificate,128.0
+293,Montserrado 2,Private,In-service C Certificate,699.0
+294,Montserrado 2,Private,M.Sc. in Education,17.0
+295,Montserrado 2,Private,No teaching certificate,666.0
+296,Montserrado 2,Private,PhD in Education,3.0
+297,Montserrado 2,Private,Pre-service B Certificate,184.0
+298,Montserrado 2,Private,Pre-service C Certificate,758.0
+299,Montserrado 2,Public,AA Certificate,141.0
+300,Montserrado 2,Public,B.Sc. in Education,172.0
+301,Montserrado 2,Public,In-service B Certificate,36.0
+302,Montserrado 2,Public,In-service C Certificate,180.0
+303,Montserrado 2,Public,M.Sc. in Education,11.0
+304,Montserrado 2,Public,No teaching certificate,30.0
+305,Montserrado 2,Public,PhD in Education,1.0
+306,Montserrado 2,Public,Pre-service B Certificate,46.0
+307,Montserrado 2,Public,Pre-service C Certificate,159.0
+308,Nimba,Community,AA Certificate,28.0
+309,Nimba,Community,B.Sc. in Education,17.0
+310,Nimba,Community,In-service B Certificate,8.0
+311,Nimba,Community,In-service C Certificate,74.0
+312,Nimba,Community,No teaching certificate,73.0
+313,Nimba,Community,Pre-service B Certificate,7.0
+314,Nimba,Community,Pre-service C Certificate,65.0
+315,Nimba,Faith-based,AA Certificate,135.0
+316,Nimba,Faith-based,B.Sc. in Education,112.0
+317,Nimba,Faith-based,In-service B Certificate,37.0
+318,Nimba,Faith-based,In-service C Certificate,176.0
+319,Nimba,Faith-based,M.Sc. in Education,8.0
+320,Nimba,Faith-based,No teaching certificate,287.0
+321,Nimba,Faith-based,Pre-service B Certificate,8.0
+322,Nimba,Faith-based,Pre-service C Certificate,152.0
+323,Nimba,Private,AA Certificate,222.0
+324,Nimba,Private,B.Sc. in Education,141.0
+325,Nimba,Private,In-service B Certificate,33.0
+326,Nimba,Private,In-service C Certificate,211.0
+327,Nimba,Private,M.Sc. in Education,6.0
+328,Nimba,Private,No teaching certificate,280.0
+329,Nimba,Private,Pre-service B Certificate,25.0
+330,Nimba,Private,Pre-service C Certificate,244.0
+331,Nimba,Public,AA Certificate,290.0
+332,Nimba,Public,B.Sc. in Education,146.0
+333,Nimba,Public,In-service B Certificate,48.0
+334,Nimba,Public,In-service C Certificate,1661.0
+335,Nimba,Public,M.Sc. in Education,4.0
+336,Nimba,Public,No teaching certificate,386.0
+337,Nimba,Public,Pre-service B Certificate,105.0
+338,Nimba,Public,Pre-service C Certificate,887.0
+339,River Gee,Faith-based,AA Certificate,10.0
+340,River Gee,Faith-based,B.Sc. in Education,10.0
+341,River Gee,Faith-based,In-service B Certificate,3.0
+342,River Gee,Faith-based,In-service C Certificate,40.0
+343,River Gee,Faith-based,No teaching certificate,20.0
+344,River Gee,Faith-based,Pre-service B Certificate,1.0
+345,River Gee,Faith-based,Pre-service C Certificate,19.0
+346,River Gee,Private,No teaching certificate,3.0
+347,River Gee,Private,Pre-service C Certificate,11.0
+348,River Gee,Public,AA Certificate,6.0
+349,River Gee,Public,B.Sc. in Education,14.0
+350,River Gee,Public,In-service B Certificate,20.0
+351,River Gee,Public,In-service C Certificate,217.0
+352,River Gee,Public,No teaching certificate,141.0
+353,River Gee,Public,Pre-service B Certificate,4.0
+354,River Gee,Public,Pre-service C Certificate,112.0
+355,Rivercess,Community,In-service C Certificate,0.0
+356,Rivercess,Faith-based,AA Certificate,5.0
+357,Rivercess,Faith-based,In-service B Certificate,2.0
+358,Rivercess,Faith-based,In-service C Certificate,4.0
+359,Rivercess,Faith-based,No teaching certificate,15.0
+360,Rivercess,Faith-based,Pre-service C Certificate,4.0
+361,Rivercess,Private,AA Certificate,1.0
+362,Rivercess,Private,In-service B Certificate,2.0
+363,Rivercess,Private,In-service C Certificate,2.0
+364,Rivercess,Public,AA Certificate,9.0
+365,Rivercess,Public,B.Sc. in Education,8.0
+366,Rivercess,Public,In-service B Certificate,4.0
+367,Rivercess,Public,In-service C Certificate,57.0
+368,Rivercess,Public,No teaching certificate,63.0
+369,Rivercess,Public,Pre-service B Certificate,4.0
+370,Rivercess,Public,Pre-service C Certificate,45.0
+371,Sinoe,Community,No teaching certificate,3.0
+372,Sinoe,Faith-based,AA Certificate,36.0
+373,Sinoe,Faith-based,B.Sc. in Education,25.0
+374,Sinoe,Faith-based,In-service B Certificate,10.0
+375,Sinoe,Faith-based,In-service C Certificate,49.0
+376,Sinoe,Faith-based,M.Sc. in Education,2.0
+377,Sinoe,Faith-based,No teaching certificate,94.0
+378,Sinoe,Faith-based,Pre-service B Certificate,15.0
+379,Sinoe,Faith-based,Pre-service C Certificate,49.0
+380,Sinoe,Private,AA Certificate,24.0
+381,Sinoe,Private,B.Sc. in Education,4.0
+382,Sinoe,Private,In-service B Certificate,5.0
+383,Sinoe,Private,In-service C Certificate,39.0
+384,Sinoe,Private,No teaching certificate,59.0
+385,Sinoe,Private,Pre-service B Certificate,2.0
+386,Sinoe,Private,Pre-service C Certificate,50.0
+387,Sinoe,Public,AA Certificate,33.0
+388,Sinoe,Public,B.Sc. in Education,63.0
+389,Sinoe,Public,In-service B Certificate,10.0
+390,Sinoe,Public,In-service C Certificate,360.0
+391,Sinoe,Public,No teaching certificate,317.0
+392,Sinoe,Public,Pre-service B Certificate,21.0
+393,Sinoe,Public,Pre-service C Certificate,199.0

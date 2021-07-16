@@ -1,0 +1,796 @@
+,County,Professional qualification,count,Level(s) teaching/ECE,Level(s) teaching/Primary (Lower Basic),Level(s) teaching/Junior Secondary (Upper Basic),Level(s) teaching/Senior High
+0,Bomi,AA Certificate,Dewoin,0.0,1.0,0.0,0.0
+1,Bomi,AA Certificate,Klay,0.0,1.0,0.0,0.0
+2,Bomi,AA Certificate,Senji,3.0,22.0,12.0,2.0
+3,Bomi,AA Certificate,Suehn-Mecca,1.0,2.0,0.0,0.0
+4,Bomi,B.Sc. in Education,Dewoin,0.0,2.0,0.0,0.0
+5,Bomi,B.Sc. in Education,Senji,0.0,1.0,2.0,3.0
+6,Bomi,B.Sc. in Education,Suehn-Mecca,0.0,0.0,2.0,1.0
+7,Bomi,In-service B Certificate,Senji,0.0,1.0,0.0,0.0
+8,Bomi,In-service B Certificate,Suehn-Mecca,3.0,2.0,0.0,0.0
+9,Bomi,In-service C Certificate,Dewoin,3.0,3.0,1.0,0.0
+10,Bomi,In-service C Certificate,Klay,3.0,5.0,0.0,0.0
+11,Bomi,In-service C Certificate,Senji,18.0,32.0,7.0,2.0
+12,Bomi,In-service C Certificate,Suehn-Mecca,4.0,10.0,1.0,1.0
+13,Bomi,M.Sc. in Education,Dewoin,0.0,1.0,0.0,0.0
+14,Bomi,M.Sc. in Education,Suehn-Mecca,0.0,1.0,0.0,1.0
+15,Bomi,No teaching certificate,Dewoin,2.0,3.0,0.0,0.0
+16,Bomi,No teaching certificate,Klay,5.0,2.0,0.0,0.0
+17,Bomi,No teaching certificate,Senji,26.0,29.0,12.0,18.0
+18,Bomi,No teaching certificate,Suehn-Mecca,18.0,15.0,3.0,3.0
+19,Bomi,Pre-service B Certificate,Dewoin,2.0,0.0,0.0,0.0
+20,Bomi,Pre-service B Certificate,Senji,1.0,4.0,3.0,1.0
+21,Bomi,Pre-service B Certificate,Suehn-Mecca,0.0,0.0,1.0,1.0
+22,Bomi,Pre-service C Certificate,Dewoin,2.0,5.0,0.0,0.0
+23,Bomi,Pre-service C Certificate,Senji,15.0,34.0,10.0,2.0
+24,Bomi,Pre-service C Certificate,Suehn-Mecca,17.0,32.0,2.0,2.0
+25,Bong,AA Certificate,Fuamah,0.0,0.0,1.0,2.0
+26,Bong,AA Certificate,Gbarnga 1,3.0,10.0,7.0,6.0
+27,Bong,AA Certificate,Gbarnga 2,0.0,8.0,8.0,0.0
+28,Bong,AA Certificate,Kokoyah,2.0,2.0,0.0,0.0
+29,Bong,AA Certificate,Panta-Kpaai,1.0,2.0,4.0,3.0
+30,Bong,AA Certificate,Salala,0.0,7.0,1.0,1.0
+31,Bong,AA Certificate,Sanoyea,0.0,1.0,0.0,0.0
+32,Bong,AA Certificate,Zota,0.0,2.0,0.0,1.0
+33,Bong,B.Sc. in Education,Fuamah,0.0,0.0,2.0,9.0
+34,Bong,B.Sc. in Education,Gbarnga 1,2.0,5.0,6.0,5.0
+35,Bong,B.Sc. in Education,Gbarnga 2,4.0,5.0,5.0,4.0
+36,Bong,B.Sc. in Education,Kokoyah,1.0,1.0,1.0,1.0
+37,Bong,B.Sc. in Education,Panta-Kpaai,1.0,1.0,2.0,7.0
+38,Bong,B.Sc. in Education,Salala,0.0,3.0,7.0,7.0
+39,Bong,B.Sc. in Education,Sanoyea,0.0,1.0,2.0,3.0
+40,Bong,B.Sc. in Education,Zota,0.0,1.0,3.0,3.0
+41,Bong,In-service B Certificate,Fuamah,0.0,1.0,3.0,2.0
+42,Bong,In-service B Certificate,Gbarnga 1,3.0,8.0,16.0,6.0
+43,Bong,In-service B Certificate,Gbarnga 2,3.0,10.0,5.0,1.0
+44,Bong,In-service B Certificate,Kokoyah,2.0,3.0,5.0,0.0
+45,Bong,In-service B Certificate,Panta-Kpaai,0.0,7.0,7.0,2.0
+46,Bong,In-service B Certificate,Salala,0.0,0.0,1.0,0.0
+47,Bong,In-service B Certificate,Sanoyea,0.0,0.0,1.0,1.0
+48,Bong,In-service B Certificate,Suakoko,0.0,0.0,1.0,1.0
+49,Bong,In-service B Certificate,Zota,0.0,1.0,0.0,0.0
+50,Bong,In-service C Certificate,Fuamah,4.0,13.0,2.0,0.0
+51,Bong,In-service C Certificate,Gbarnga 1,32.0,36.0,32.0,1.0
+52,Bong,In-service C Certificate,Gbarnga 2,40.0,67.0,31.0,0.0
+53,Bong,In-service C Certificate,Kokoyah,17.0,95.0,23.0,0.0
+54,Bong,In-service C Certificate,Panta-Kpaai,23.0,93.0,19.0,2.0
+55,Bong,In-service C Certificate,Salala,10.0,29.0,13.0,0.0
+56,Bong,In-service C Certificate,Sanoyea,11.0,31.0,4.0,1.0
+57,Bong,In-service C Certificate,Suakoko,2.0,3.0,0.0,1.0
+58,Bong,In-service C Certificate,Zota,15.0,53.0,3.0,4.0
+59,Bong,M.Sc. in Education,Gbarnga 2,0.0,0.0,0.0,1.0
+60,Bong,No teaching certificate,Fuamah,1.0,1.0,0.0,0.0
+61,Bong,No teaching certificate,Gbarnga 1,4.0,10.0,3.0,0.0
+62,Bong,No teaching certificate,Gbarnga 2,14.0,15.0,1.0,0.0
+63,Bong,No teaching certificate,Kokoyah,37.0,53.0,2.0,0.0
+64,Bong,No teaching certificate,Panta-Kpaai,34.0,57.0,9.0,9.0
+65,Bong,No teaching certificate,Salala,10.0,24.0,4.0,0.0
+66,Bong,No teaching certificate,Sanoyea,6.0,17.0,0.0,0.0
+67,Bong,No teaching certificate,Suakoko,5.0,12.0,0.0,0.0
+68,Bong,No teaching certificate,Zota,14.0,23.0,5.0,3.0
+69,Bong,Pre-service B Certificate,Fuamah,0.0,1.0,2.0,1.0
+70,Bong,Pre-service B Certificate,Gbarnga 1,3.0,8.0,14.0,6.0
+71,Bong,Pre-service B Certificate,Gbarnga 2,2.0,16.0,8.0,0.0
+72,Bong,Pre-service B Certificate,Kokoyah,0.0,5.0,1.0,0.0
+73,Bong,Pre-service B Certificate,Panta-Kpaai,0.0,3.0,3.0,1.0
+74,Bong,Pre-service B Certificate,Salala,1.0,3.0,3.0,2.0
+75,Bong,Pre-service B Certificate,Sanoyea,2.0,5.0,3.0,0.0
+76,Bong,Pre-service B Certificate,Suakoko,0.0,1.0,0.0,0.0
+77,Bong,Pre-service B Certificate,Zota,0.0,8.0,4.0,1.0
+78,Bong,Pre-service C Certificate,Fuamah,12.0,35.0,0.0,0.0
+79,Bong,Pre-service C Certificate,Gbarnga 1,18.0,43.0,26.0,2.0
+80,Bong,Pre-service C Certificate,Gbarnga 2,57.0,80.0,21.0,0.0
+81,Bong,Pre-service C Certificate,Kokoyah,13.0,36.0,10.0,1.0
+82,Bong,Pre-service C Certificate,Panta-Kpaai,14.0,41.0,10.0,2.0
+83,Bong,Pre-service C Certificate,Salala,15.0,53.0,9.0,0.0
+84,Bong,Pre-service C Certificate,Sanoyea,6.0,21.0,5.0,0.0
+85,Bong,Pre-service C Certificate,Suakoko,2.0,6.0,1.0,0.0
+86,Bong,Pre-service C Certificate,Zota,10.0,35.0,8.0,1.0
+87,Gbarpolu,AA Certificate,Belle,0.0,0.0,2.0,0.0
+88,Gbarpolu,AA Certificate,Bopolu,0.0,5.0,5.0,2.0
+89,Gbarpolu,AA Certificate,Gbarma,0.0,0.0,1.0,0.0
+90,Gbarpolu,AA Certificate,Kongba,0.0,4.0,0.0,0.0
+91,Gbarpolu,B.Sc. in Education,Belle,0.0,0.0,8.0,5.0
+92,Gbarpolu,B.Sc. in Education,Bopolu,2.0,1.0,3.0,5.0
+93,Gbarpolu,B.Sc. in Education,Gbarma,0.0,0.0,2.0,3.0
+94,Gbarpolu,In-service B Certificate,Belle,0.0,0.0,1.0,0.0
+95,Gbarpolu,In-service B Certificate,Gbarma,0.0,0.0,0.0,1.0
+96,Gbarpolu,In-service C Certificate,Belle,10.0,23.0,13.0,0.0
+97,Gbarpolu,In-service C Certificate,Bopolu,4.0,10.0,2.0,0.0
+98,Gbarpolu,In-service C Certificate,Gbarma,11.0,17.0,3.0,2.0
+99,Gbarpolu,In-service C Certificate,Gorwalali,7.0,11.0,0.0,0.0
+100,Gbarpolu,In-service C Certificate,Kongba,9.0,21.0,4.0,0.0
+101,Gbarpolu,No teaching certificate,Belle,14.0,21.0,7.0,0.0
+102,Gbarpolu,No teaching certificate,Bopolu,26.0,29.0,0.0,1.0
+103,Gbarpolu,No teaching certificate,Gbarma,0.0,4.0,0.0,0.0
+104,Gbarpolu,No teaching certificate,Gorwalali,4.0,6.0,1.0,0.0
+105,Gbarpolu,No teaching certificate,Kongba,24.0,35.0,6.0,0.0
+106,Gbarpolu,Pre-service B Certificate,Belle,0.0,1.0,1.0,0.0
+107,Gbarpolu,Pre-service B Certificate,Bopolu,0.0,3.0,1.0,0.0
+108,Gbarpolu,Pre-service B Certificate,Gbarma,0.0,0.0,0.0,2.0
+109,Gbarpolu,Pre-service B Certificate,Gorwalali,0.0,2.0,1.0,0.0
+110,Gbarpolu,Pre-service C Certificate,Belle,1.0,12.0,5.0,0.0
+111,Gbarpolu,Pre-service C Certificate,Bokomu,2.0,2.0,0.0,0.0
+112,Gbarpolu,Pre-service C Certificate,Bopolu,25.0,70.0,6.0,0.0
+113,Gbarpolu,Pre-service C Certificate,Gbarma,0.0,0.0,1.0,0.0
+114,Gbarpolu,Pre-service C Certificate,Gorwalali,15.0,22.0,2.0,0.0
+115,Gbarpolu,Pre-service C Certificate,Kongba,3.0,7.0,8.0,0.0
+116,Grand Bassa,AA Certificate,District 1,1.0,7.0,1.0,4.0
+117,Grand Bassa,AA Certificate,District 2,0.0,2.0,4.0,3.0
+118,Grand Bassa,AA Certificate,District 3A,19.0,33.0,5.0,2.0
+119,Grand Bassa,AA Certificate,District 3B,3.0,6.0,4.0,0.0
+120,Grand Bassa,AA Certificate,District 4,0.0,7.0,0.0,0.0
+121,Grand Bassa,AA Certificate,District 5,2.0,10.0,4.0,0.0
+122,Grand Bassa,AA Certificate,District 5B,2.0,2.0,0.0,0.0
+123,Grand Bassa,B.Sc. in Education,District 1,0.0,0.0,0.0,4.0
+124,Grand Bassa,B.Sc. in Education,District 2,1.0,2.0,0.0,2.0
+125,Grand Bassa,B.Sc. in Education,District 3A,0.0,3.0,2.0,8.0
+126,Grand Bassa,B.Sc. in Education,District 3B,0.0,1.0,0.0,0.0
+127,Grand Bassa,B.Sc. in Education,District 5,0.0,0.0,1.0,0.0
+128,Grand Bassa,In-service B Certificate,District 2,1.0,3.0,1.0,0.0
+129,Grand Bassa,In-service B Certificate,District 3A,0.0,1.0,0.0,2.0
+130,Grand Bassa,In-service B Certificate,District 3B,1.0,1.0,1.0,0.0
+131,Grand Bassa,In-service B Certificate,District 4,0.0,3.0,0.0,0.0
+132,Grand Bassa,In-service B Certificate,District 5,0.0,2.0,0.0,0.0
+133,Grand Bassa,In-service C Certificate,District 1,11.0,30.0,17.0,0.0
+134,Grand Bassa,In-service C Certificate,District 2,7.0,15.0,1.0,0.0
+135,Grand Bassa,In-service C Certificate,District 3A,6.0,18.0,2.0,0.0
+136,Grand Bassa,In-service C Certificate,District 3B,5.0,11.0,4.0,0.0
+137,Grand Bassa,In-service C Certificate,District 4,2.0,13.0,4.0,0.0
+138,Grand Bassa,In-service C Certificate,District 5,2.0,8.0,2.0,0.0
+139,Grand Bassa,In-service C Certificate,District 5B,2.0,4.0,1.0,0.0
+140,Grand Bassa,M.Sc. in Education,District 4,0.0,0.0,2.0,0.0
+141,Grand Bassa,No teaching certificate,District 1,36.0,39.0,0.0,0.0
+142,Grand Bassa,No teaching certificate,District 2,22.0,37.0,4.0,0.0
+143,Grand Bassa,No teaching certificate,District 3A,29.0,32.0,1.0,4.0
+144,Grand Bassa,No teaching certificate,District 3B,44.0,55.0,8.0,0.0
+145,Grand Bassa,No teaching certificate,District 4,23.0,31.0,3.0,0.0
+146,Grand Bassa,No teaching certificate,District 5,3.0,0.0,0.0,0.0
+147,Grand Bassa,No teaching certificate,District 5B,1.0,0.0,0.0,0.0
+148,Grand Bassa,PhD in Education,District 1,1.0,1.0,0.0,0.0
+149,Grand Bassa,Pre-service B Certificate,District 1,0.0,2.0,0.0,0.0
+150,Grand Bassa,Pre-service B Certificate,District 2,1.0,1.0,0.0,0.0
+151,Grand Bassa,Pre-service B Certificate,District 3A,0.0,2.0,1.0,0.0
+152,Grand Bassa,Pre-service B Certificate,District 4,0.0,3.0,0.0,0.0
+153,Grand Bassa,Pre-service B Certificate,District 5,0.0,3.0,1.0,0.0
+154,Grand Bassa,Pre-service C Certificate,District 1,9.0,22.0,4.0,0.0
+155,Grand Bassa,Pre-service C Certificate,District 2,6.0,11.0,1.0,0.0
+156,Grand Bassa,Pre-service C Certificate,District 3A,8.0,14.0,2.0,2.0
+157,Grand Bassa,Pre-service C Certificate,District 3B,6.0,13.0,1.0,0.0
+158,Grand Bassa,Pre-service C Certificate,District 4,8.0,24.0,3.0,0.0
+159,Grand Bassa,Pre-service C Certificate,District 5,4.0,22.0,0.0,0.0
+160,Grand Bassa,Pre-service C Certificate,District 5B,2.0,0.0,0.0,0.0
+161,Grand Cape Mount,AA Certificate,Garwular,1.0,27.0,34.0,8.0
+162,Grand Cape Mount,AA Certificate,Gola Konneh,3.0,10.0,9.0,3.0
+163,Grand Cape Mount,AA Certificate,Porkpa,1.0,1.0,7.0,5.0
+164,Grand Cape Mount,AA Certificate,Tallah Tombay,1.0,8.0,6.0,9.0
+165,Grand Cape Mount,AA Certificate,Tewor,4.0,21.0,17.0,12.0
+166,Grand Cape Mount,B.Sc. in Education,Garwular,1.0,6.0,15.0,7.0
+167,Grand Cape Mount,B.Sc. in Education,Gola Konneh,0.0,2.0,2.0,3.0
+168,Grand Cape Mount,B.Sc. in Education,Porkpa,0.0,0.0,1.0,2.0
+169,Grand Cape Mount,B.Sc. in Education,Tallah Tombay,0.0,0.0,1.0,2.0
+170,Grand Cape Mount,B.Sc. in Education,Tewor,2.0,3.0,9.0,11.0
+171,Grand Cape Mount,In-service B Certificate,Garwular,4.0,14.0,9.0,1.0
+172,Grand Cape Mount,In-service B Certificate,Gola Konneh,2.0,15.0,10.0,1.0
+173,Grand Cape Mount,In-service B Certificate,Porkpa,1.0,3.0,2.0,0.0
+174,Grand Cape Mount,In-service B Certificate,Tallah Tombay,0.0,1.0,1.0,0.0
+175,Grand Cape Mount,In-service B Certificate,Tewor,4.0,5.0,3.0,0.0
+176,Grand Cape Mount,In-service C Certificate,Garwular,2.0,14.0,6.0,0.0
+177,Grand Cape Mount,In-service C Certificate,Gola Konneh,13.0,24.0,8.0,0.0
+178,Grand Cape Mount,In-service C Certificate,Porkpa,24.0,34.0,2.0,0.0
+179,Grand Cape Mount,In-service C Certificate,Tallah Tombay,7.0,11.0,0.0,0.0
+180,Grand Cape Mount,In-service C Certificate,Tewor,24.0,46.0,11.0,1.0
+181,Grand Cape Mount,M.Sc. in Education,Garwular,0.0,0.0,0.0,0.0
+182,Grand Cape Mount,M.Sc. in Education,Tewor,0.0,0.0,1.0,0.0
+183,Grand Cape Mount,No teaching certificate,Garwular,26.0,42.0,10.0,16.0
+184,Grand Cape Mount,No teaching certificate,Gola Konneh,39.0,30.0,5.0,2.0
+185,Grand Cape Mount,No teaching certificate,Porkpa,25.0,27.0,1.0,0.0
+186,Grand Cape Mount,No teaching certificate,Tallah Tombay,29.0,45.0,10.0,7.0
+187,Grand Cape Mount,No teaching certificate,Tewor,26.0,25.0,1.0,3.0
+188,Grand Cape Mount,PhD in Education,Garwular,0.0,0.0,1.0,0.0
+189,Grand Cape Mount,Pre-service B Certificate,Garwular,1.0,10.0,7.0,1.0
+190,Grand Cape Mount,Pre-service B Certificate,Gola Konneh,6.0,9.0,5.0,1.0
+191,Grand Cape Mount,Pre-service B Certificate,Porkpa,1.0,2.0,1.0,1.0
+192,Grand Cape Mount,Pre-service B Certificate,Tallah Tombay,0.0,4.0,2.0,0.0
+193,Grand Cape Mount,Pre-service B Certificate,Tewor,3.0,5.0,1.0,0.0
+194,Grand Cape Mount,Pre-service C Certificate,Garwular,25.0,60.0,14.0,2.0
+195,Grand Cape Mount,Pre-service C Certificate,Gola Konneh,13.0,39.0,16.0,1.0
+196,Grand Cape Mount,Pre-service C Certificate,Porkpa,9.0,14.0,8.0,3.0
+197,Grand Cape Mount,Pre-service C Certificate,Tallah Tombay,3.0,8.0,1.0,0.0
+198,Grand Cape Mount,Pre-service C Certificate,Tewor,22.0,39.0,11.0,1.0
+199,Grand Gedeh,AA Certificate,Cavalla,2.0,14.0,22.0,8.0
+200,Grand Gedeh,AA Certificate,Gbarzon,0.0,0.0,2.0,0.0
+201,Grand Gedeh,AA Certificate,Konobo,6.0,6.0,4.0,1.0
+202,Grand Gedeh,AA Certificate,Putu,0.0,0.0,2.0,0.0
+203,Grand Gedeh,AA Certificate,Tchien,4.0,21.0,37.0,24.0
+204,Grand Gedeh,B.Sc. in Education,Cavalla,0.0,7.0,9.0,20.0
+205,Grand Gedeh,B.Sc. in Education,Gbarzon,0.0,1.0,2.0,0.0
+206,Grand Gedeh,B.Sc. in Education,Konobo,2.0,4.0,2.0,2.0
+207,Grand Gedeh,B.Sc. in Education,Putu,0.0,1.0,1.0,0.0
+208,Grand Gedeh,B.Sc. in Education,Tchien,0.0,6.0,28.0,46.0
+209,Grand Gedeh,In-service B Certificate,Cavalla,1.0,7.0,8.0,0.0
+210,Grand Gedeh,In-service B Certificate,Gbarzon,1.0,0.0,0.0,0.0
+211,Grand Gedeh,In-service B Certificate,Putu,1.0,3.0,1.0,0.0
+212,Grand Gedeh,In-service B Certificate,Tchien,6.0,6.0,3.0,1.0
+213,Grand Gedeh,In-service C Certificate,Cavalla,54.0,131.0,40.0,3.0
+214,Grand Gedeh,In-service C Certificate,Gbarzon,10.0,19.0,8.0,0.0
+215,Grand Gedeh,In-service C Certificate,Konobo,53.0,77.0,11.0,3.0
+216,Grand Gedeh,In-service C Certificate,Putu,6.0,10.0,1.0,0.0
+217,Grand Gedeh,In-service C Certificate,Tchien,35.0,129.0,27.0,3.0
+218,Grand Gedeh,M.Sc. in Education,Cavalla,0.0,1.0,0.0,1.0
+219,Grand Gedeh,M.Sc. in Education,Tchien,0.0,2.0,0.0,0.0
+220,Grand Gedeh,No teaching certificate,Cavalla,17.0,9.0,4.0,0.0
+221,Grand Gedeh,No teaching certificate,Gbarzon,2.0,3.0,1.0,0.0
+222,Grand Gedeh,No teaching certificate,Konobo,14.0,18.0,1.0,1.0
+223,Grand Gedeh,No teaching certificate,Putu,11.0,13.0,0.0,0.0
+224,Grand Gedeh,No teaching certificate,Tchien,41.0,52.0,10.0,1.0
+225,Grand Gedeh,PhD in Education,Cavalla,0.0,0.0,0.0,0.0
+226,Grand Gedeh,PhD in Education,Putu,0.0,0.0,0.0,0.0
+227,Grand Gedeh,Pre-service B Certificate,Cavalla,1.0,4.0,6.0,0.0
+228,Grand Gedeh,Pre-service B Certificate,Gbarzon,0.0,0.0,1.0,0.0
+229,Grand Gedeh,Pre-service B Certificate,Tchien,1.0,5.0,7.0,3.0
+230,Grand Gedeh,Pre-service C Certificate,Cavalla,31.0,46.0,5.0,0.0
+231,Grand Gedeh,Pre-service C Certificate,Gbarzon,6.0,5.0,1.0,0.0
+232,Grand Gedeh,Pre-service C Certificate,Konobo,11.0,14.0,0.0,0.0
+233,Grand Gedeh,Pre-service C Certificate,Putu,2.0,14.0,1.0,0.0
+234,Grand Gedeh,Pre-service C Certificate,Tchien,42.0,90.0,5.0,0.0
+235,Grand Kru,AA Certificate,Barclayville,1.0,2.0,3.0,0.0
+236,Grand Kru,AA Certificate,Buah,0.0,1.0,0.0,0.0
+237,Grand Kru,AA Certificate,Dorbor,2.0,2.0,2.0,0.0
+238,Grand Kru,AA Certificate,Grand Cess,0.0,1.0,0.0,0.0
+239,Grand Kru,AA Certificate,Sass Town,0.0,0.0,1.0,2.0
+240,Grand Kru,AA Certificate,Trehn,0.0,2.0,1.0,0.0
+241,Grand Kru,AA Certificate,Wedabo,2.0,3.0,1.0,0.0
+242,Grand Kru,B.Sc. in Education,Barclayville,0.0,2.0,6.0,19.0
+243,Grand Kru,B.Sc. in Education,Buah,0.0,0.0,3.0,3.0
+244,Grand Kru,B.Sc. in Education,Grand Cess,0.0,0.0,4.0,7.0
+245,Grand Kru,B.Sc. in Education,Sass Town,0.0,0.0,0.0,6.0
+246,Grand Kru,B.Sc. in Education,Trehn,0.0,0.0,4.0,9.0
+247,Grand Kru,B.Sc. in Education,Wedabo,1.0,3.0,6.0,0.0
+248,Grand Kru,In-service B Certificate,Grand Cess,1.0,0.0,0.0,0.0
+249,Grand Kru,In-service B Certificate,Sass Town,0.0,1.0,1.0,0.0
+250,Grand Kru,In-service B Certificate,Trehn,2.0,7.0,4.0,0.0
+251,Grand Kru,In-service B Certificate,Wedabo,0.0,1.0,1.0,0.0
+252,Grand Kru,In-service C Certificate,Barclayville,1.0,7.0,5.0,0.0
+253,Grand Kru,In-service C Certificate,Buah,20.0,28.0,2.0,1.0
+254,Grand Kru,In-service C Certificate,Dorbor,2.0,2.0,0.0,0.0
+255,Grand Kru,In-service C Certificate,Grand Cess,1.0,9.0,6.0,3.0
+256,Grand Kru,In-service C Certificate,Jloh,1.0,1.0,1.0,0.0
+257,Grand Kru,In-service C Certificate,Sass Town,3.0,5.0,5.0,1.0
+258,Grand Kru,In-service C Certificate,Trehn,3.0,14.0,6.0,0.0
+259,Grand Kru,In-service C Certificate,Wedabo,3.0,10.0,2.0,0.0
+260,Grand Kru,M.Sc. in Education,Barclayville,0.0,1.0,0.0,0.0
+261,Grand Kru,No teaching certificate,Barclayville,12.0,31.0,8.0,9.0
+262,Grand Kru,No teaching certificate,Buah,12.0,14.0,6.0,4.0
+263,Grand Kru,No teaching certificate,Dorbor,6.0,12.0,3.0,1.0
+264,Grand Kru,No teaching certificate,Grand Cess,3.0,6.0,1.0,0.0
+265,Grand Kru,No teaching certificate,Jloh,12.0,17.0,6.0,0.0
+266,Grand Kru,No teaching certificate,Sass Town,0.0,4.0,5.0,5.0
+267,Grand Kru,No teaching certificate,Trehn,6.0,7.0,2.0,0.0
+268,Grand Kru,No teaching certificate,Wedabo,11.0,9.0,0.0,0.0
+269,Grand Kru,Pre-service B Certificate,Barclayville,0.0,0.0,1.0,0.0
+270,Grand Kru,Pre-service B Certificate,Buah,0.0,0.0,1.0,1.0
+271,Grand Kru,Pre-service B Certificate,Jloh,0.0,0.0,1.0,0.0
+272,Grand Kru,Pre-service B Certificate,Sass Town,0.0,1.0,0.0,0.0
+273,Grand Kru,Pre-service B Certificate,Trehn,1.0,3.0,0.0,0.0
+274,Grand Kru,Pre-service B Certificate,Wedabo,1.0,2.0,2.0,0.0
+275,Grand Kru,Pre-service C Certificate,Barclayville,24.0,64.0,24.0,1.0
+276,Grand Kru,Pre-service C Certificate,Buah,3.0,23.0,4.0,0.0
+277,Grand Kru,Pre-service C Certificate,Dorbor,0.0,6.0,3.0,0.0
+278,Grand Kru,Pre-service C Certificate,Grand Cess,1.0,1.0,0.0,0.0
+279,Grand Kru,Pre-service C Certificate,Jloh,3.0,9.0,6.0,0.0
+280,Grand Kru,Pre-service C Certificate,Sass Town,2.0,10.0,8.0,0.0
+281,Grand Kru,Pre-service C Certificate,Trehn,15.0,28.0,6.0,0.0
+282,Grand Kru,Pre-service C Certificate,Wedabo,12.0,47.0,13.0,0.0
+283,Lofa,AA Certificate,Foya,3.0,4.0,3.0,0.0
+284,Lofa,AA Certificate,Kolahun 1,3.0,9.0,13.0,1.0
+285,Lofa,AA Certificate,Kolahun 2,0.0,3.0,10.0,4.0
+286,Lofa,AA Certificate,Vahun,0.0,1.0,0.0,0.0
+287,Lofa,AA Certificate,Voinjama,6.0,16.0,14.0,10.0
+288,Lofa,AA Certificate,Zorzor,0.0,5.0,7.0,7.0
+289,Lofa,B.Sc. in Education,Foya,0.0,1.0,0.0,0.0
+290,Lofa,B.Sc. in Education,Kolahun 1,0.0,0.0,0.0,1.0
+291,Lofa,B.Sc. in Education,Voinjama,0.0,7.0,2.0,6.0
+292,Lofa,B.Sc. in Education,Zorzor,1.0,0.0,0.0,3.0
+293,Lofa,In-service B Certificate,Foya,0.0,6.0,2.0,0.0
+294,Lofa,In-service B Certificate,Kolahun 1,0.0,0.0,1.0,0.0
+295,Lofa,In-service B Certificate,Kolahun 2,1.0,3.0,0.0,1.0
+296,Lofa,In-service B Certificate,Vahun,0.0,1.0,0.0,0.0
+297,Lofa,In-service B Certificate,Voinjama,0.0,2.0,0.0,0.0
+298,Lofa,In-service B Certificate,Zorzor,1.0,1.0,1.0,1.0
+299,Lofa,In-service C Certificate,Foya,13.0,62.0,4.0,0.0
+300,Lofa,In-service C Certificate,Kolahun 1,2.0,11.0,13.0,0.0
+301,Lofa,In-service C Certificate,Kolahun 2,1.0,14.0,3.0,0.0
+302,Lofa,In-service C Certificate,Salayea,1.0,1.0,0.0,0.0
+303,Lofa,In-service C Certificate,Vahun,0.0,16.0,0.0,0.0
+304,Lofa,In-service C Certificate,Voinjama,17.0,27.0,11.0,3.0
+305,Lofa,In-service C Certificate,Zorzor,5.0,12.0,2.0,2.0
+306,Lofa,M.Sc. in Education,Kolahun 1,0.0,0.0,0.0,0.0
+307,Lofa,M.Sc. in Education,Zorzor,0.0,0.0,1.0,0.0
+308,Lofa,No teaching certificate,Foya,27.0,79.0,6.0,0.0
+309,Lofa,No teaching certificate,Kolahun 1,19.0,23.0,6.0,0.0
+310,Lofa,No teaching certificate,Kolahun 2,24.0,47.0,6.0,0.0
+311,Lofa,No teaching certificate,Vahun,0.0,6.0,0.0,0.0
+312,Lofa,No teaching certificate,Voinjama,41.0,42.0,9.0,1.0
+313,Lofa,No teaching certificate,Zorzor,13.0,26.0,9.0,15.0
+314,Lofa,PhD in Education,Voinjama,1.0,0.0,0.0,0.0
+315,Lofa,Pre-service B Certificate,Foya,1.0,3.0,1.0,0.0
+316,Lofa,Pre-service B Certificate,Kolahun 1,0.0,1.0,0.0,0.0
+317,Lofa,Pre-service B Certificate,Kolahun 2,1.0,1.0,0.0,0.0
+318,Lofa,Pre-service B Certificate,Salayea,0.0,0.0,1.0,0.0
+319,Lofa,Pre-service B Certificate,Voinjama,0.0,5.0,3.0,0.0
+320,Lofa,Pre-service B Certificate,Zorzor,0.0,3.0,2.0,2.0
+321,Lofa,Pre-service C Certificate,Foya,10.0,48.0,9.0,0.0
+322,Lofa,Pre-service C Certificate,Kolahun 1,7.0,15.0,8.0,0.0
+323,Lofa,Pre-service C Certificate,Kolahun 2,7.0,10.0,2.0,0.0
+324,Lofa,Pre-service C Certificate,Vahun,0.0,2.0,0.0,0.0
+325,Lofa,Pre-service C Certificate,Voinjama,9.0,19.0,2.0,0.0
+326,Lofa,Pre-service C Certificate,Zorzor,15.0,65.0,22.0,3.0
+327,Margibi,AA Certificate,Farmington,4.0,19.0,32.0,16.0
+328,Margibi,AA Certificate,Gibi,0.0,4.0,3.0,0.0
+329,Margibi,AA Certificate,Kakata 1,2.0,12.0,6.0,1.0
+330,Margibi,AA Certificate,Kakata 2,4.0,6.0,19.0,4.0
+331,Margibi,AA Certificate,Mama kaba,4.0,15.0,21.0,7.0
+332,Margibi,AA Certificate,Marshall,5.0,7.0,12.0,9.0
+333,Margibi,B.Sc. in Education,Farmington,11.0,19.0,33.0,29.0
+334,Margibi,B.Sc. in Education,Gibi,0.0,1.0,1.0,0.0
+335,Margibi,B.Sc. in Education,Kakata 1,2.0,6.0,9.0,5.0
+336,Margibi,B.Sc. in Education,Kakata 2,2.0,7.0,17.0,38.0
+337,Margibi,B.Sc. in Education,Mama kaba,1.0,9.0,8.0,13.0
+338,Margibi,B.Sc. in Education,Marshall,0.0,3.0,10.0,17.0
+339,Margibi,In-service B Certificate,Farmington,8.0,11.0,15.0,5.0
+340,Margibi,In-service B Certificate,Gibi,1.0,1.0,0.0,0.0
+341,Margibi,In-service B Certificate,Kakata 1,2.0,6.0,6.0,1.0
+342,Margibi,In-service B Certificate,Kakata 2,2.0,1.0,6.0,0.0
+343,Margibi,In-service B Certificate,Mama kaba,2.0,7.0,9.0,1.0
+344,Margibi,In-service B Certificate,Marshall,0.0,1.0,1.0,0.0
+345,Margibi,In-service C Certificate,Farmington,28.0,86.0,44.0,10.0
+346,Margibi,In-service C Certificate,Gibi,12.0,35.0,6.0,0.0
+347,Margibi,In-service C Certificate,Kakata 1,13.0,27.0,13.0,0.0
+348,Margibi,In-service C Certificate,Kakata 2,2.0,8.0,10.0,3.0
+349,Margibi,In-service C Certificate,Mama kaba,18.0,42.0,15.0,3.0
+350,Margibi,In-service C Certificate,Marshall,5.0,14.0,9.0,6.0
+351,Margibi,M.Sc. in Education,Farmington,1.0,1.0,3.0,5.0
+352,Margibi,M.Sc. in Education,Kakata 1,0.0,1.0,0.0,0.0
+353,Margibi,M.Sc. in Education,Kakata 2,0.0,1.0,1.0,7.0
+354,Margibi,M.Sc. in Education,Mama kaba,0.0,2.0,0.0,0.0
+355,Margibi,M.Sc. in Education,Marshall,0.0,1.0,0.0,0.0
+356,Margibi,No teaching certificate,Farmington,42.0,60.0,19.0,3.0
+357,Margibi,No teaching certificate,Gibi,13.0,18.0,1.0,0.0
+358,Margibi,No teaching certificate,Kakata 1,12.0,15.0,0.0,0.0
+359,Margibi,No teaching certificate,Kakata 2,17.0,24.0,4.0,0.0
+360,Margibi,No teaching certificate,Mama kaba,19.0,43.0,20.0,6.0
+361,Margibi,No teaching certificate,Marshall,12.0,13.0,1.0,1.0
+362,Margibi,PhD in Education,Farmington,1.0,0.0,1.0,0.0
+363,Margibi,Pre-service B Certificate,Farmington,1.0,6.0,8.0,6.0
+364,Margibi,Pre-service B Certificate,Gibi,1.0,0.0,2.0,0.0
+365,Margibi,Pre-service B Certificate,Kakata 1,0.0,8.0,6.0,3.0
+366,Margibi,Pre-service B Certificate,Kakata 2,1.0,5.0,11.0,0.0
+367,Margibi,Pre-service B Certificate,Mama kaba,2.0,13.0,11.0,0.0
+368,Margibi,Pre-service B Certificate,Marshall,1.0,7.0,9.0,2.0
+369,Margibi,Pre-service C Certificate,Farmington,41.0,76.0,37.0,9.0
+370,Margibi,Pre-service C Certificate,Gibi,12.0,36.0,1.0,1.0
+371,Margibi,Pre-service C Certificate,Kakata 1,22.0,60.0,17.0,0.0
+372,Margibi,Pre-service C Certificate,Kakata 2,33.0,112.0,33.0,5.0
+373,Margibi,Pre-service C Certificate,Mama kaba,15.0,53.0,18.0,5.0
+374,Margibi,Pre-service C Certificate,Marshall,21.0,67.0,16.0,13.0
+375,Maryland,B.Sc. in Education,Harper 2,3.0,0.0,5.0,0.0
+376,Maryland,In-service B Certificate,Karleway 1,0.0,2.0,2.0,0.0
+377,Maryland,In-service C Certificate,Barrobo 1,5.0,9.0,1.0,1.0
+378,Maryland,In-service C Certificate,Harper 2,0.0,2.0,0.0,0.0
+379,Maryland,In-service C Certificate,Karleway 1,0.0,3.0,3.0,0.0
+380,Maryland,In-service C Certificate,Sodoken,0.0,4.0,0.0,0.0
+381,Maryland,No teaching certificate,Barrobo 1,2.0,2.0,1.0,0.0
+382,Maryland,No teaching certificate,Harper 2,7.0,8.0,3.0,0.0
+383,Maryland,No teaching certificate,Karleway 1,2.0,4.0,6.0,7.0
+384,Maryland,Pre-service C Certificate,Barrobo 1,2.0,7.0,2.0,0.0
+385,Maryland,Pre-service C Certificate,Harper 2,2.0,1.0,1.0,0.0
+386,Maryland,Pre-service C Certificate,Karleway 1,2.0,4.0,2.0,1.0
+387,Maryland,Pre-service C Certificate,Karleway 2,0.0,1.0,0.0,0.0
+388,Maryland,Pre-service C Certificate,Sodoken,1.0,1.0,0.0,0.0
+389,Montserrado 1,AA Certificate,Greater Monrovia 1A,21.0,61.0,74.0,25.0
+390,Montserrado 1,AA Certificate,Greater Monrovia 1B,16.0,48.0,25.0,7.0
+391,Montserrado 1,AA Certificate,Greater Monrovia 1C,13.0,53.0,52.0,39.0
+392,Montserrado 1,AA Certificate,Greater Monrovia 1D,13.0,56.0,38.0,22.0
+393,Montserrado 1,AA Certificate,Greater Monrovia 1E,4.0,16.0,6.0,0.0
+394,Montserrado 1,AA Certificate,Greater Monrovia 2A,2.0,13.0,1.0,2.0
+395,Montserrado 1,AA Certificate,Greater Monrovia 2B,2.0,8.0,8.0,4.0
+396,Montserrado 1,AA Certificate,Greater Monrovia 2C,2.0,11.0,7.0,5.0
+397,Montserrado 1,AA Certificate,Greater Monrovia 2D,1.0,26.0,15.0,7.0
+398,Montserrado 1,AA Certificate,Paynesville 1,14.0,56.0,67.0,19.0
+399,Montserrado 1,AA Certificate,Paynesville 2,11.0,47.0,54.0,34.0
+400,Montserrado 1,AA Certificate,Paynesville 3,4.0,34.0,34.0,16.0
+401,Montserrado 1,AA Certificate,Paynesville 4,12.0,35.0,46.0,29.0
+402,Montserrado 1,AA Certificate,Paynesville 5,0.0,16.0,14.0,14.0
+403,Montserrado 1,AA Certificate,Paynesville 6,11.0,51.0,56.0,25.0
+404,Montserrado 1,B.Sc. in Education,Greater Monrovia 1A,16.0,65.0,61.0,107.0
+405,Montserrado 1,B.Sc. in Education,Greater Monrovia 1B,9.0,27.0,11.0,7.0
+406,Montserrado 1,B.Sc. in Education,Greater Monrovia 1C,4.0,20.0,18.0,11.0
+407,Montserrado 1,B.Sc. in Education,Greater Monrovia 1D,6.0,29.0,14.0,16.0
+408,Montserrado 1,B.Sc. in Education,Greater Monrovia 1E,3.0,5.0,0.0,0.0
+409,Montserrado 1,B.Sc. in Education,Greater Monrovia 2A,4.0,32.0,6.0,16.0
+410,Montserrado 1,B.Sc. in Education,Greater Monrovia 2B,1.0,6.0,9.0,11.0
+411,Montserrado 1,B.Sc. in Education,Greater Monrovia 2C,1.0,2.0,9.0,6.0
+412,Montserrado 1,B.Sc. in Education,Greater Monrovia 2D,5.0,10.0,19.0,33.0
+413,Montserrado 1,B.Sc. in Education,Paynesville 1,11.0,25.0,60.0,36.0
+414,Montserrado 1,B.Sc. in Education,Paynesville 2,3.0,16.0,23.0,32.0
+415,Montserrado 1,B.Sc. in Education,Paynesville 3,1.0,8.0,16.0,10.0
+416,Montserrado 1,B.Sc. in Education,Paynesville 4,4.0,9.0,19.0,39.0
+417,Montserrado 1,B.Sc. in Education,Paynesville 5,3.0,17.0,21.0,24.0
+418,Montserrado 1,B.Sc. in Education,Paynesville 6,3.0,14.0,24.0,27.0
+419,Montserrado 1,In-service B Certificate,Greater Monrovia 1A,3.0,17.0,20.0,5.0
+420,Montserrado 1,In-service B Certificate,Greater Monrovia 1B,0.0,2.0,3.0,3.0
+421,Montserrado 1,In-service B Certificate,Greater Monrovia 1C,5.0,8.0,6.0,2.0
+422,Montserrado 1,In-service B Certificate,Greater Monrovia 1D,1.0,7.0,6.0,5.0
+423,Montserrado 1,In-service B Certificate,Greater Monrovia 1E,2.0,1.0,0.0,0.0
+424,Montserrado 1,In-service B Certificate,Greater Monrovia 2A,1.0,5.0,11.0,3.0
+425,Montserrado 1,In-service B Certificate,Greater Monrovia 2B,1.0,3.0,9.0,6.0
+426,Montserrado 1,In-service B Certificate,Greater Monrovia 2C,0.0,7.0,5.0,3.0
+427,Montserrado 1,In-service B Certificate,Greater Monrovia 2D,1.0,6.0,3.0,0.0
+428,Montserrado 1,In-service B Certificate,Paynesville 1,1.0,10.0,13.0,3.0
+429,Montserrado 1,In-service B Certificate,Paynesville 2,0.0,5.0,13.0,11.0
+430,Montserrado 1,In-service B Certificate,Paynesville 3,4.0,7.0,6.0,7.0
+431,Montserrado 1,In-service B Certificate,Paynesville 4,2.0,10.0,7.0,4.0
+432,Montserrado 1,In-service B Certificate,Paynesville 5,0.0,4.0,5.0,2.0
+433,Montserrado 1,In-service B Certificate,Paynesville 6,2.0,15.0,11.0,1.0
+434,Montserrado 1,In-service C Certificate,Greater Monrovia 1A,66.0,186.0,50.0,17.0
+435,Montserrado 1,In-service C Certificate,Greater Monrovia 1B,25.0,52.0,16.0,4.0
+436,Montserrado 1,In-service C Certificate,Greater Monrovia 1C,18.0,35.0,14.0,4.0
+437,Montserrado 1,In-service C Certificate,Greater Monrovia 1D,20.0,39.0,7.0,3.0
+438,Montserrado 1,In-service C Certificate,Greater Monrovia 1E,6.0,22.0,16.0,0.0
+439,Montserrado 1,In-service C Certificate,Greater Monrovia 2A,20.0,42.0,6.0,4.0
+440,Montserrado 1,In-service C Certificate,Greater Monrovia 2B,21.0,42.0,15.0,7.0
+441,Montserrado 1,In-service C Certificate,Greater Monrovia 2C,25.0,33.0,12.0,6.0
+442,Montserrado 1,In-service C Certificate,Greater Monrovia 2D,28.0,60.0,14.0,0.0
+443,Montserrado 1,In-service C Certificate,Paynesville 1,28.0,52.0,24.0,3.0
+444,Montserrado 1,In-service C Certificate,Paynesville 2,42.0,89.0,50.0,26.0
+445,Montserrado 1,In-service C Certificate,Paynesville 3,12.0,21.0,6.0,4.0
+446,Montserrado 1,In-service C Certificate,Paynesville 4,45.0,48.0,23.0,5.0
+447,Montserrado 1,In-service C Certificate,Paynesville 5,16.0,43.0,18.0,7.0
+448,Montserrado 1,In-service C Certificate,Paynesville 6,43.0,72.0,35.0,9.0
+449,Montserrado 1,M.Sc. in Education,Greater Monrovia 1A,1.0,6.0,5.0,7.0
+450,Montserrado 1,M.Sc. in Education,Greater Monrovia 1B,0.0,1.0,2.0,0.0
+451,Montserrado 1,M.Sc. in Education,Greater Monrovia 1C,2.0,3.0,3.0,1.0
+452,Montserrado 1,M.Sc. in Education,Greater Monrovia 1D,0.0,1.0,0.0,1.0
+453,Montserrado 1,M.Sc. in Education,Greater Monrovia 1E,0.0,0.0,0.0,0.0
+454,Montserrado 1,M.Sc. in Education,Greater Monrovia 2A,0.0,3.0,0.0,2.0
+455,Montserrado 1,M.Sc. in Education,Greater Monrovia 2B,0.0,0.0,1.0,0.0
+456,Montserrado 1,M.Sc. in Education,Greater Monrovia 2C,1.0,1.0,0.0,0.0
+457,Montserrado 1,M.Sc. in Education,Greater Monrovia 2D,0.0,0.0,1.0,6.0
+458,Montserrado 1,M.Sc. in Education,Paynesville 1,1.0,4.0,5.0,3.0
+459,Montserrado 1,M.Sc. in Education,Paynesville 2,2.0,1.0,0.0,0.0
+460,Montserrado 1,M.Sc. in Education,Paynesville 3,0.0,0.0,1.0,1.0
+461,Montserrado 1,M.Sc. in Education,Paynesville 4,1.0,1.0,2.0,4.0
+462,Montserrado 1,M.Sc. in Education,Paynesville 5,1.0,1.0,0.0,1.0
+463,Montserrado 1,M.Sc. in Education,Paynesville 6,0.0,1.0,4.0,2.0
+464,Montserrado 1,No teaching certificate,Greater Monrovia 1A,102.0,110.0,44.0,30.0
+465,Montserrado 1,No teaching certificate,Greater Monrovia 1B,38.0,69.0,13.0,6.0
+466,Montserrado 1,No teaching certificate,Greater Monrovia 1C,59.0,89.0,41.0,13.0
+467,Montserrado 1,No teaching certificate,Greater Monrovia 1D,15.0,43.0,7.0,7.0
+468,Montserrado 1,No teaching certificate,Greater Monrovia 1E,16.0,29.0,8.0,0.0
+469,Montserrado 1,No teaching certificate,Greater Monrovia 2A,34.0,52.0,15.0,21.0
+470,Montserrado 1,No teaching certificate,Greater Monrovia 2B,32.0,72.0,25.0,11.0
+471,Montserrado 1,No teaching certificate,Greater Monrovia 2C,19.0,35.0,10.0,4.0
+472,Montserrado 1,No teaching certificate,Greater Monrovia 2D,17.0,31.0,6.0,4.0
+473,Montserrado 1,No teaching certificate,Paynesville 1,53.0,110.0,43.0,18.0
+474,Montserrado 1,No teaching certificate,Paynesville 2,61.0,103.0,41.0,38.0
+475,Montserrado 1,No teaching certificate,Paynesville 3,18.0,30.0,6.0,3.0
+476,Montserrado 1,No teaching certificate,Paynesville 4,29.0,39.0,10.0,4.0
+477,Montserrado 1,No teaching certificate,Paynesville 5,51.0,61.0,21.0,8.0
+478,Montserrado 1,No teaching certificate,Paynesville 6,61.0,98.0,45.0,20.0
+479,Montserrado 1,PhD in Education,Greater Monrovia 1A,0.0,1.0,0.0,0.0
+480,Montserrado 1,PhD in Education,Greater Monrovia 2A,0.0,0.0,0.0,0.0
+481,Montserrado 1,PhD in Education,Paynesville 1,0.0,1.0,1.0,0.0
+482,Montserrado 1,PhD in Education,Paynesville 4,0.0,0.0,0.0,0.0
+483,Montserrado 1,PhD in Education,Paynesville 6,0.0,1.0,1.0,0.0
+484,Montserrado 1,Pre-service B Certificate,Greater Monrovia 1A,5.0,23.0,21.0,17.0
+485,Montserrado 1,Pre-service B Certificate,Greater Monrovia 1B,3.0,4.0,4.0,1.0
+486,Montserrado 1,Pre-service B Certificate,Greater Monrovia 1C,5.0,19.0,11.0,0.0
+487,Montserrado 1,Pre-service B Certificate,Greater Monrovia 1D,5.0,10.0,6.0,4.0
+488,Montserrado 1,Pre-service B Certificate,Greater Monrovia 1E,0.0,1.0,5.0,0.0
+489,Montserrado 1,Pre-service B Certificate,Greater Monrovia 2A,0.0,8.0,2.0,5.0
+490,Montserrado 1,Pre-service B Certificate,Greater Monrovia 2B,1.0,6.0,5.0,2.0
+491,Montserrado 1,Pre-service B Certificate,Greater Monrovia 2C,0.0,7.0,13.0,4.0
+492,Montserrado 1,Pre-service B Certificate,Greater Monrovia 2D,1.0,15.0,7.0,1.0
+493,Montserrado 1,Pre-service B Certificate,Paynesville 1,7.0,12.0,12.0,2.0
+494,Montserrado 1,Pre-service B Certificate,Paynesville 2,3.0,17.0,11.0,8.0
+495,Montserrado 1,Pre-service B Certificate,Paynesville 3,1.0,5.0,6.0,3.0
+496,Montserrado 1,Pre-service B Certificate,Paynesville 4,3.0,11.0,6.0,4.0
+497,Montserrado 1,Pre-service B Certificate,Paynesville 5,9.0,10.0,8.0,1.0
+498,Montserrado 1,Pre-service B Certificate,Paynesville 6,4.0,8.0,5.0,0.0
+499,Montserrado 1,Pre-service C Certificate,Greater Monrovia 1A,61.0,105.0,26.0,5.0
+500,Montserrado 1,Pre-service C Certificate,Greater Monrovia 1B,24.0,45.0,5.0,0.0
+501,Montserrado 1,Pre-service C Certificate,Greater Monrovia 1C,49.0,82.0,27.0,5.0
+502,Montserrado 1,Pre-service C Certificate,Greater Monrovia 1D,32.0,27.0,3.0,1.0
+503,Montserrado 1,Pre-service C Certificate,Greater Monrovia 1E,19.0,38.0,6.0,0.0
+504,Montserrado 1,Pre-service C Certificate,Greater Monrovia 2A,39.0,81.0,8.0,4.0
+505,Montserrado 1,Pre-service C Certificate,Greater Monrovia 2B,22.0,39.0,20.0,11.0
+506,Montserrado 1,Pre-service C Certificate,Greater Monrovia 2C,16.0,31.0,15.0,3.0
+507,Montserrado 1,Pre-service C Certificate,Greater Monrovia 2D,26.0,77.0,24.0,1.0
+508,Montserrado 1,Pre-service C Certificate,Paynesville 1,29.0,63.0,15.0,4.0
+509,Montserrado 1,Pre-service C Certificate,Paynesville 2,34.0,71.0,31.0,5.0
+510,Montserrado 1,Pre-service C Certificate,Paynesville 3,10.0,7.0,4.0,4.0
+511,Montserrado 1,Pre-service C Certificate,Paynesville 4,29.0,29.0,13.0,3.0
+512,Montserrado 1,Pre-service C Certificate,Paynesville 5,24.0,45.0,21.0,7.0
+513,Montserrado 1,Pre-service C Certificate,Paynesville 6,34.0,55.0,33.0,7.0
+514,Montserrado 2,AA Certificate,Careysburg,1.0,6.0,6.0,1.0
+515,Montserrado 2,AA Certificate,Left Bank 1A,2.0,23.0,24.0,7.0
+516,Montserrado 2,AA Certificate,Left Bank 1D,2.0,16.0,21.0,14.0
+517,Montserrado 2,AA Certificate,Left Bank 2A,15.0,64.0,60.0,31.0
+518,Montserrado 2,AA Certificate,Left bank  1C,2.0,18.0,31.0,16.0
+519,Montserrado 2,AA Certificate,Left bank 1B,2.0,13.0,10.0,1.0
+520,Montserrado 2,AA Certificate,Left bank 2B,14.0,33.0,31.0,15.0
+521,Montserrado 2,AA Certificate,Right Bank 1,5.0,20.0,18.0,8.0
+522,Montserrado 2,AA Certificate,Right Bank 2,3.0,23.0,30.0,24.0
+523,Montserrado 2,AA Certificate,Right Bank 3,5.0,21.0,37.0,18.0
+524,Montserrado 2,AA Certificate,Todee,1.0,7.0,8.0,4.0
+525,Montserrado 2,B.Sc. in Education,Careysburg,1.0,6.0,2.0,1.0
+526,Montserrado 2,B.Sc. in Education,Left Bank 1A,3.0,17.0,15.0,14.0
+527,Montserrado 2,B.Sc. in Education,Left Bank 1D,6.0,11.0,26.0,5.0
+528,Montserrado 2,B.Sc. in Education,Left Bank 2A,11.0,31.0,48.0,51.0
+529,Montserrado 2,B.Sc. in Education,Left bank  1C,0.0,11.0,25.0,49.0
+530,Montserrado 2,B.Sc. in Education,Left bank 1B,1.0,7.0,3.0,14.0
+531,Montserrado 2,B.Sc. in Education,Left bank 2B,10.0,16.0,24.0,40.0
+532,Montserrado 2,B.Sc. in Education,Right Bank 1,0.0,6.0,7.0,18.0
+533,Montserrado 2,B.Sc. in Education,Right Bank 2,3.0,15.0,32.0,58.0
+534,Montserrado 2,B.Sc. in Education,Right Bank 3,2.0,12.0,19.0,31.0
+535,Montserrado 2,B.Sc. in Education,Todee,1.0,7.0,9.0,10.0
+536,Montserrado 2,In-service B Certificate,Careysburg,0.0,0.0,1.0,0.0
+537,Montserrado 2,In-service B Certificate,Left Bank 1A,3.0,8.0,13.0,3.0
+538,Montserrado 2,In-service B Certificate,Left Bank 1D,2.0,23.0,15.0,7.0
+539,Montserrado 2,In-service B Certificate,Left Bank 2A,2.0,6.0,9.0,8.0
+540,Montserrado 2,In-service B Certificate,Left bank  1C,1.0,10.0,5.0,3.0
+541,Montserrado 2,In-service B Certificate,Left bank 1B,1.0,9.0,6.0,0.0
+542,Montserrado 2,In-service B Certificate,Left bank 2B,4.0,13.0,10.0,0.0
+543,Montserrado 2,In-service B Certificate,Right Bank 1,1.0,1.0,3.0,0.0
+544,Montserrado 2,In-service B Certificate,Right Bank 2,0.0,3.0,5.0,2.0
+545,Montserrado 2,In-service B Certificate,Right Bank 3,3.0,12.0,7.0,2.0
+546,Montserrado 2,In-service B Certificate,Todee,2.0,8.0,1.0,0.0
+547,Montserrado 2,In-service C Certificate,Careysburg,6.0,18.0,8.0,2.0
+548,Montserrado 2,In-service C Certificate,Left Bank 1A,50.0,88.0,38.0,5.0
+549,Montserrado 2,In-service C Certificate,Left Bank 1D,37.0,70.0,30.0,7.0
+550,Montserrado 2,In-service C Certificate,Left Bank 2A,40.0,122.0,55.0,7.0
+551,Montserrado 2,In-service C Certificate,Left bank  1C,24.0,40.0,26.0,10.0
+552,Montserrado 2,In-service C Certificate,Left bank 1B,21.0,73.0,12.0,1.0
+553,Montserrado 2,In-service C Certificate,Left bank 2B,29.0,58.0,31.0,6.0
+554,Montserrado 2,In-service C Certificate,Right Bank 1,24.0,20.0,5.0,0.0
+555,Montserrado 2,In-service C Certificate,Right Bank 2,30.0,69.0,41.0,3.0
+556,Montserrado 2,In-service C Certificate,Right Bank 3,26.0,68.0,25.0,10.0
+557,Montserrado 2,In-service C Certificate,Todee,15.0,38.0,9.0,3.0
+558,Montserrado 2,M.Sc. in Education,Left Bank 1A,0.0,2.0,1.0,1.0
+559,Montserrado 2,M.Sc. in Education,Left Bank 1D,0.0,1.0,3.0,1.0
+560,Montserrado 2,M.Sc. in Education,Left Bank 2A,0.0,1.0,2.0,3.0
+561,Montserrado 2,M.Sc. in Education,Left bank  1C,0.0,0.0,3.0,4.0
+562,Montserrado 2,M.Sc. in Education,Left bank 1B,0.0,3.0,0.0,0.0
+563,Montserrado 2,M.Sc. in Education,Left bank 2B,1.0,2.0,1.0,3.0
+564,Montserrado 2,M.Sc. in Education,Right Bank 1,0.0,1.0,0.0,0.0
+565,Montserrado 2,M.Sc. in Education,Right Bank 2,0.0,0.0,2.0,1.0
+566,Montserrado 2,M.Sc. in Education,Right Bank 3,0.0,0.0,0.0,1.0
+567,Montserrado 2,No teaching certificate,Careysburg,13.0,27.0,4.0,0.0
+568,Montserrado 2,No teaching certificate,Left Bank 1A,33.0,32.0,16.0,8.0
+569,Montserrado 2,No teaching certificate,Left Bank 1D,35.0,56.0,28.0,13.0
+570,Montserrado 2,No teaching certificate,Left Bank 2A,62.0,89.0,33.0,22.0
+571,Montserrado 2,No teaching certificate,Left bank  1C,38.0,66.0,29.0,16.0
+572,Montserrado 2,No teaching certificate,Left bank 1B,17.0,19.0,4.0,0.0
+573,Montserrado 2,No teaching certificate,Left bank 2B,57.0,85.0,42.0,18.0
+574,Montserrado 2,No teaching certificate,Right Bank 1,23.0,18.0,13.0,3.0
+575,Montserrado 2,No teaching certificate,Right Bank 2,27.0,33.0,11.0,2.0
+576,Montserrado 2,No teaching certificate,Right Bank 3,10.0,6.0,0.0,1.0
+577,Montserrado 2,No teaching certificate,Todee,4.0,2.0,0.0,0.0
+578,Montserrado 2,PhD in Education,Left Bank 1D,3.0,0.0,0.0,0.0
+579,Montserrado 2,PhD in Education,Left Bank 2A,1.0,0.0,1.0,0.0
+580,Montserrado 2,PhD in Education,Left bank 2B,0.0,1.0,0.0,0.0
+581,Montserrado 2,PhD in Education,Right Bank 1,0.0,1.0,1.0,0.0
+582,Montserrado 2,Pre-service B Certificate,Careysburg,1.0,4.0,2.0,0.0
+583,Montserrado 2,Pre-service B Certificate,Left Bank 1A,6.0,20.0,24.0,2.0
+584,Montserrado 2,Pre-service B Certificate,Left Bank 1D,10.0,27.0,20.0,9.0
+585,Montserrado 2,Pre-service B Certificate,Left Bank 2A,5.0,21.0,12.0,7.0
+586,Montserrado 2,Pre-service B Certificate,Left bank  1C,4.0,15.0,9.0,4.0
+587,Montserrado 2,Pre-service B Certificate,Left bank 1B,5.0,10.0,9.0,0.0
+588,Montserrado 2,Pre-service B Certificate,Left bank 2B,5.0,11.0,2.0,1.0
+589,Montserrado 2,Pre-service B Certificate,Right Bank 1,0.0,4.0,2.0,2.0
+590,Montserrado 2,Pre-service B Certificate,Right Bank 2,3.0,5.0,8.0,3.0
+591,Montserrado 2,Pre-service B Certificate,Right Bank 3,0.0,5.0,10.0,7.0
+592,Montserrado 2,Pre-service B Certificate,Todee,4.0,12.0,5.0,4.0
+593,Montserrado 2,Pre-service C Certificate,Careysburg,9.0,11.0,8.0,1.0
+594,Montserrado 2,Pre-service C Certificate,Left Bank 1A,81.0,119.0,24.0,7.0
+595,Montserrado 2,Pre-service C Certificate,Left Bank 1D,38.0,37.0,28.0,3.0
+596,Montserrado 2,Pre-service C Certificate,Left Bank 2A,50.0,92.0,26.0,1.0
+597,Montserrado 2,Pre-service C Certificate,Left bank  1C,28.0,76.0,26.0,4.0
+598,Montserrado 2,Pre-service C Certificate,Left bank 1B,29.0,102.0,24.0,1.0
+599,Montserrado 2,Pre-service C Certificate,Left bank 2B,20.0,27.0,4.0,0.0
+600,Montserrado 2,Pre-service C Certificate,Right Bank 1,34.0,58.0,19.0,12.0
+601,Montserrado 2,Pre-service C Certificate,Right Bank 2,40.0,52.0,23.0,3.0
+602,Montserrado 2,Pre-service C Certificate,Right Bank 3,37.0,64.0,24.0,9.0
+603,Montserrado 2,Pre-service C Certificate,Todee,2.0,12.0,2.0,1.0
+604,Nimba,AA Certificate,Bain- Garr 2,4.0,19.0,34.0,12.0
+605,Nimba,AA Certificate,Bain-Garr 1,10.0,48.0,61.0,23.0
+606,Nimba,AA Certificate,Buuyao,1.0,17.0,16.0,0.0
+607,Nimba,AA Certificate,Gbelay-Geh,1.0,7.0,9.0,5.0
+608,Nimba,AA Certificate,Saclepea 1,5.0,43.0,49.0,14.0
+609,Nimba,AA Certificate,Sanniquellie Mah,9.0,36.0,39.0,19.0
+610,Nimba,AA Certificate,Tappita 1,6.0,27.0,22.0,12.0
+611,Nimba,AA Certificate,Tappita 2,2.0,9.0,7.0,4.0
+612,Nimba,AA Certificate,Tuwah River,0.0,4.0,7.0,10.0
+613,Nimba,AA Certificate,Yarpea Mah,0.0,1.0,0.0,0.0
+614,Nimba,AA Certificate,Yarwein Mensonoh,8.0,35.0,5.0,3.0
+615,Nimba,AA Certificate,Zoe-Geh,0.0,11.0,15.0,6.0
+616,Nimba,B.Sc. in Education,Bain- Garr 2,2.0,7.0,9.0,16.0
+617,Nimba,B.Sc. in Education,Bain-Garr 1,1.0,13.0,20.0,40.0
+618,Nimba,B.Sc. in Education,Buuyao,0.0,1.0,3.0,7.0
+619,Nimba,B.Sc. in Education,Gbelay-Geh,1.0,1.0,4.0,8.0
+620,Nimba,B.Sc. in Education,Saclepea 1,1.0,5.0,15.0,42.0
+621,Nimba,B.Sc. in Education,Sanniquellie Mah,5.0,25.0,31.0,53.0
+622,Nimba,B.Sc. in Education,Tappita 1,2.0,4.0,11.0,24.0
+623,Nimba,B.Sc. in Education,Tappita 2,0.0,1.0,3.0,7.0
+624,Nimba,B.Sc. in Education,Tuwah River,0.0,4.0,16.0,11.0
+625,Nimba,B.Sc. in Education,Yarpea Mah,0.0,0.0,1.0,0.0
+626,Nimba,B.Sc. in Education,Yarwein Mensonoh,1.0,2.0,4.0,3.0
+627,Nimba,B.Sc. in Education,Zoe-Geh,0.0,4.0,4.0,4.0
+628,Nimba,In-service B Certificate,Bain- Garr 2,2.0,11.0,3.0,1.0
+629,Nimba,In-service B Certificate,Bain-Garr 1,0.0,7.0,5.0,0.0
+630,Nimba,In-service B Certificate,Buuyao,3.0,12.0,7.0,0.0
+631,Nimba,In-service B Certificate,Gbelay-Geh,1.0,4.0,0.0,0.0
+632,Nimba,In-service B Certificate,Saclepea 1,0.0,9.0,5.0,3.0
+633,Nimba,In-service B Certificate,Sanniquellie Mah,2.0,13.0,8.0,2.0
+634,Nimba,In-service B Certificate,Tappita 1,1.0,5.0,4.0,2.0
+635,Nimba,In-service B Certificate,Tappita 2,0.0,3.0,0.0,0.0
+636,Nimba,In-service B Certificate,Tuwah River,0.0,1.0,4.0,4.0
+637,Nimba,In-service B Certificate,Yarpea Mah,1.0,0.0,1.0,0.0
+638,Nimba,In-service B Certificate,Yarwein Mensonoh,0.0,1.0,0.0,0.0
+639,Nimba,In-service B Certificate,Zoe-Geh,0.0,0.0,1.0,0.0
+640,Nimba,In-service C Certificate,Bain- Garr 2,25.0,57.0,20.0,1.0
+641,Nimba,In-service C Certificate,Bain-Garr 1,37.0,78.0,25.0,6.0
+642,Nimba,In-service C Certificate,Buuyao,41.0,128.0,18.0,0.0
+643,Nimba,In-service C Certificate,Gbelay-Geh,18.0,69.0,16.0,1.0
+644,Nimba,In-service C Certificate,Saclepea 1,69.0,219.0,52.0,4.0
+645,Nimba,In-service C Certificate,Sanniquellie Mah,42.0,152.0,53.0,4.0
+646,Nimba,In-service C Certificate,Tappita 1,48.0,86.0,34.0,4.0
+647,Nimba,In-service C Certificate,Tappita 2,25.0,88.0,21.0,2.0
+648,Nimba,In-service C Certificate,Tuwah River,60.0,203.0,70.0,9.0
+649,Nimba,In-service C Certificate,Yarpea Mah,4.0,16.0,0.0,0.0
+650,Nimba,In-service C Certificate,Yarwein Mensonoh,36.0,77.0,14.0,0.0
+651,Nimba,In-service C Certificate,Zoe-Geh,37.0,114.0,37.0,2.0
+652,Nimba,M.Sc. in Education,Bain- Garr 2,0.0,1.0,1.0,1.0
+653,Nimba,M.Sc. in Education,Bain-Garr 1,0.0,0.0,0.0,6.0
+654,Nimba,M.Sc. in Education,Gbelay-Geh,0.0,0.0,0.0,1.0
+655,Nimba,M.Sc. in Education,Saclepea 1,0.0,0.0,0.0,1.0
+656,Nimba,M.Sc. in Education,Sanniquellie Mah,0.0,0.0,1.0,3.0
+657,Nimba,M.Sc. in Education,Tappita 1,0.0,0.0,1.0,2.0
+658,Nimba,No teaching certificate,Bain- Garr 2,23.0,38.0,9.0,8.0
+659,Nimba,No teaching certificate,Bain-Garr 1,23.0,27.0,4.0,1.0
+660,Nimba,No teaching certificate,Buuyao,22.0,72.0,10.0,0.0
+661,Nimba,No teaching certificate,Gbelay-Geh,3.0,12.0,1.0,2.0
+662,Nimba,No teaching certificate,Saclepea 1,59.0,96.0,7.0,0.0
+663,Nimba,No teaching certificate,Sanniquellie Mah,95.0,106.0,36.0,16.0
+664,Nimba,No teaching certificate,Tappita 1,69.0,85.0,15.0,4.0
+665,Nimba,No teaching certificate,Tappita 2,6.0,16.0,3.0,0.0
+666,Nimba,No teaching certificate,Tuwah River,18.0,23.0,7.0,0.0
+667,Nimba,No teaching certificate,Yarpea Mah,2.0,8.0,0.0,0.0
+668,Nimba,No teaching certificate,Yarwein Mensonoh,10.0,17.0,2.0,0.0
+669,Nimba,No teaching certificate,Zoe-Geh,27.0,37.0,5.0,2.0
+670,Nimba,Pre-service B Certificate,Bain- Garr 2,1.0,5.0,7.0,1.0
+671,Nimba,Pre-service B Certificate,Bain-Garr 1,1.0,11.0,7.0,0.0
+672,Nimba,Pre-service B Certificate,Buuyao,0.0,10.0,7.0,0.0
+673,Nimba,Pre-service B Certificate,Gbelay-Geh,0.0,2.0,1.0,1.0
+674,Nimba,Pre-service B Certificate,Saclepea 1,3.0,10.0,6.0,1.0
+675,Nimba,Pre-service B Certificate,Sanniquellie Mah,4.0,10.0,11.0,0.0
+676,Nimba,Pre-service B Certificate,Tappita 1,1.0,4.0,4.0,3.0
+677,Nimba,Pre-service B Certificate,Tappita 2,1.0,1.0,0.0,0.0
+678,Nimba,Pre-service B Certificate,Tuwah River,2.0,4.0,3.0,0.0
+679,Nimba,Pre-service B Certificate,Yarwein Mensonoh,3.0,3.0,3.0,0.0
+680,Nimba,Pre-service B Certificate,Zoe-Geh,0.0,3.0,11.0,0.0
+681,Nimba,Pre-service C Certificate,Bain- Garr 2,25.0,53.0,15.0,2.0
+682,Nimba,Pre-service C Certificate,Bain-Garr 1,44.0,87.0,31.0,6.0
+683,Nimba,Pre-service C Certificate,Buuyao,23.0,52.0,12.0,0.0
+684,Nimba,Pre-service C Certificate,Gbelay-Geh,14.0,27.0,10.0,1.0
+685,Nimba,Pre-service C Certificate,Saclepea 1,48.0,132.0,28.0,3.0
+686,Nimba,Pre-service C Certificate,Sanniquellie Mah,25.0,102.0,43.0,3.0
+687,Nimba,Pre-service C Certificate,Tappita 1,23.0,70.0,24.0,11.0
+688,Nimba,Pre-service C Certificate,Tappita 2,15.0,42.0,26.0,2.0
+689,Nimba,Pre-service C Certificate,Tuwah River,38.0,80.0,11.0,0.0
+690,Nimba,Pre-service C Certificate,Yarpea Mah,14.0,43.0,15.0,0.0
+691,Nimba,Pre-service C Certificate,Yarwein Mensonoh,6.0,22.0,2.0,0.0
+692,Nimba,Pre-service C Certificate,Zoe-Geh,29.0,67.0,22.0,0.0
+693,River Gee,AA Certificate,Gbeapo,0.0,1.0,2.0,0.0
+694,River Gee,AA Certificate,Putupo,0.0,8.0,4.0,1.0
+695,River Gee,B.Sc. in Education,Gbeapo,2.0,4.0,0.0,0.0
+696,River Gee,B.Sc. in Education,Putupo,0.0,4.0,1.0,7.0
+697,River Gee,B.Sc. in Education,Webbo,0.0,0.0,0.0,6.0
+698,River Gee,In-service B Certificate,Gbeapo,1.0,4.0,6.0,0.0
+699,River Gee,In-service B Certificate,Putupo,0.0,1.0,1.0,0.0
+700,River Gee,In-service B Certificate,Sarbo,2.0,2.0,2.0,0.0
+701,River Gee,In-service B Certificate,Tienpo,0.0,2.0,1.0,0.0
+702,River Gee,In-service B Certificate,Webbo,0.0,0.0,1.0,0.0
+703,River Gee,In-service C Certificate,Chedepo,15.0,16.0,3.0,0.0
+704,River Gee,In-service C Certificate,Gbeapo,15.0,61.0,20.0,0.0
+705,River Gee,In-service C Certificate,Putupo,4.0,10.0,1.0,0.0
+706,River Gee,In-service C Certificate,Sarbo,5.0,14.0,6.0,0.0
+707,River Gee,In-service C Certificate,Tienpo,9.0,25.0,1.0,0.0
+708,River Gee,In-service C Certificate,Webbo,19.0,30.0,3.0,0.0
+709,River Gee,No teaching certificate,Gbeapo,19.0,17.0,2.0,0.0
+710,River Gee,No teaching certificate,Putupo,0.0,0.0,2.0,1.0
+711,River Gee,No teaching certificate,Sarbo,8.0,7.0,0.0,0.0
+712,River Gee,No teaching certificate,Tienpo,9.0,6.0,0.0,0.0
+713,River Gee,No teaching certificate,Webbo,46.0,47.0,0.0,0.0
+714,River Gee,Pre-service B Certificate,Gbeapo,0.0,1.0,3.0,0.0
+715,River Gee,Pre-service B Certificate,Webbo,0.0,1.0,0.0,0.0
+716,River Gee,Pre-service C Certificate,Chedepo,9.0,15.0,2.0,0.0
+717,River Gee,Pre-service C Certificate,Gbeapo,11.0,25.0,9.0,1.0
+718,River Gee,Pre-service C Certificate,Putupo,1.0,1.0,0.0,0.0
+719,River Gee,Pre-service C Certificate,Sarbo,1.0,10.0,2.0,0.0
+720,River Gee,Pre-service C Certificate,Tienpo,2.0,5.0,2.0,0.0
+721,River Gee,Pre-service C Certificate,Webbo,12.0,28.0,6.0,0.0
+722,Rivercess,AA Certificate,Central Rivercess 1,0.0,1.0,1.0,0.0
+723,Rivercess,AA Certificate,Timobo,1.0,2.0,4.0,1.0
+724,Rivercess,AA Certificate,Yarnee,1.0,2.0,2.0,0.0
+725,Rivercess,B.Sc. in Education,Central Rivercess 1,0.0,0.0,2.0,0.0
+726,Rivercess,B.Sc. in Education,Timobo,0.0,1.0,2.0,3.0
+727,Rivercess,In-service B Certificate,Central Rivercess 1,0.0,0.0,2.0,0.0
+728,Rivercess,In-service B Certificate,Timobo,0.0,2.0,2.0,0.0
+729,Rivercess,In-service B Certificate,Yarnee,0.0,1.0,1.0,0.0
+730,Rivercess,In-service C Certificate,Central Rivercess 1,1.0,7.0,0.0,0.0
+731,Rivercess,In-service C Certificate,Central Rivercess 2,1.0,0.0,0.0,0.0
+732,Rivercess,In-service C Certificate,Morwah,0.0,0.0,0.0,0.0
+733,Rivercess,In-service C Certificate,Timobo,2.0,11.0,2.0,0.0
+734,Rivercess,In-service C Certificate,Yarnee,14.0,18.0,7.0,0.0
+735,Rivercess,No teaching certificate,Central Rivercess 1,11.0,22.0,2.0,0.0
+736,Rivercess,No teaching certificate,Central Rivercess 2,5.0,7.0,0.0,0.0
+737,Rivercess,No teaching certificate,Timobo,3.0,8.0,0.0,0.0
+738,Rivercess,No teaching certificate,Yarnee,8.0,11.0,1.0,0.0
+739,Rivercess,Pre-service B Certificate,Timobo,2.0,2.0,0.0,0.0
+740,Rivercess,Pre-service C Certificate,Central Rivercess 1,4.0,5.0,0.0,0.0
+741,Rivercess,Pre-service C Certificate,Central Rivercess 2,0.0,1.0,0.0,0.0
+742,Rivercess,Pre-service C Certificate,Morwah,1.0,1.0,0.0,0.0
+743,Rivercess,Pre-service C Certificate,Timobo,4.0,6.0,0.0,0.0
+744,Rivercess,Pre-service C Certificate,Yarnee,12.0,12.0,3.0,0.0
+745,Sinoe,AA Certificate,Butaw,1.0,5.0,4.0,0.0
+746,Sinoe,AA Certificate,Central Kpanyan,0.0,1.0,4.0,2.0
+747,Sinoe,AA Certificate,Greenville,2.0,17.0,26.0,3.0
+748,Sinoe,AA Certificate,Jeadea,0.0,4.0,5.0,0.0
+749,Sinoe,AA Certificate,Juarzon,0.0,3.0,7.0,4.0
+750,Sinoe,AA Certificate,Lower Kpanyan,0.0,2.0,1.0,1.0
+751,Sinoe,AA Certificate,Tarjuwon,0.0,1.0,0.0,0.0
+752,Sinoe,B.Sc. in Education,Butaw,0.0,1.0,0.0,0.0
+753,Sinoe,B.Sc. in Education,Central Kpanyan,0.0,1.0,4.0,5.0
+754,Sinoe,B.Sc. in Education,Greenville,1.0,1.0,13.0,22.0
+755,Sinoe,B.Sc. in Education,Juarzon,0.0,1.0,6.0,8.0
+756,Sinoe,B.Sc. in Education,Lower Kpanyan,0.0,1.0,6.0,0.0
+757,Sinoe,B.Sc. in Education,Tarjuwon,0.0,6.0,9.0,7.0
+758,Sinoe,In-service B Certificate,Greenville,1.0,4.0,3.0,0.0
+759,Sinoe,In-service B Certificate,Jeadea,0.0,5.0,5.0,0.0
+760,Sinoe,In-service B Certificate,Juarzon,0.0,1.0,1.0,0.0
+761,Sinoe,In-service B Certificate,Lower Kpanyan,1.0,1.0,0.0,0.0
+762,Sinoe,In-service B Certificate,Upper Kpanyan,0.0,1.0,2.0,0.0
+763,Sinoe,In-service C Certificate,Butaw,7.0,12.0,0.0,0.0
+764,Sinoe,In-service C Certificate,Central Kpanyan,9.0,20.0,5.0,0.0
+765,Sinoe,In-service C Certificate,Greenville,15.0,55.0,32.0,1.0
+766,Sinoe,In-service C Certificate,Jeadea,14.0,41.0,13.0,0.0
+767,Sinoe,In-service C Certificate,Juarzon,19.0,50.0,6.0,0.0
+768,Sinoe,In-service C Certificate,Lower Kpanyan,26.0,34.0,8.0,1.0
+769,Sinoe,In-service C Certificate,Tarjuwon,5.0,21.0,6.0,0.0
+770,Sinoe,In-service C Certificate,Upper Kpanyan,8.0,36.0,4.0,0.0
+771,Sinoe,M.Sc. in Education,Greenville,0.0,0.0,0.0,2.0
+772,Sinoe,No teaching certificate,Butaw,5.0,7.0,1.0,0.0
+773,Sinoe,No teaching certificate,Central Kpanyan,21.0,21.0,4.0,0.0
+774,Sinoe,No teaching certificate,Greenville,33.0,50.0,17.0,11.0
+775,Sinoe,No teaching certificate,Jeadea,29.0,26.0,2.0,0.0
+776,Sinoe,No teaching certificate,Juarzon,28.0,21.0,1.0,1.0
+777,Sinoe,No teaching certificate,Lower Kpanyan,40.0,43.0,5.0,0.0
+778,Sinoe,No teaching certificate,Tarjuwon,11.0,21.0,1.0,0.0
+779,Sinoe,No teaching certificate,Upper Kpanyan,36.0,38.0,0.0,0.0
+780,Sinoe,Pre-service B Certificate,Butaw,0.0,1.0,1.0,0.0
+781,Sinoe,Pre-service B Certificate,Greenville,1.0,9.0,9.0,1.0
+782,Sinoe,Pre-service B Certificate,Jeadea,0.0,3.0,3.0,0.0
+783,Sinoe,Pre-service B Certificate,Juarzon,0.0,0.0,1.0,0.0
+784,Sinoe,Pre-service B Certificate,Lower Kpanyan,0.0,1.0,1.0,0.0
+785,Sinoe,Pre-service B Certificate,Tarjuwon,0.0,1.0,2.0,0.0
+786,Sinoe,Pre-service B Certificate,Upper Kpanyan,1.0,1.0,2.0,0.0
+787,Sinoe,Pre-service C Certificate,Butaw,10.0,19.0,3.0,0.0
+788,Sinoe,Pre-service C Certificate,Central Kpanyan,1.0,3.0,0.0,0.0
+789,Sinoe,Pre-service C Certificate,Greenville,10.0,42.0,20.0,0.0
+790,Sinoe,Pre-service C Certificate,Jeadea,9.0,24.0,10.0,0.0
+791,Sinoe,Pre-service C Certificate,Juarzon,1.0,20.0,10.0,0.0
+792,Sinoe,Pre-service C Certificate,Lower Kpanyan,11.0,25.0,10.0,0.0
+793,Sinoe,Pre-service C Certificate,Tarjuwon,10.0,26.0,6.0,0.0
+794,Sinoe,Pre-service C Certificate,Upper Kpanyan,5.0,20.0,3.0,0.0
